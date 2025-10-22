@@ -63,14 +63,15 @@ Each line represents one image and its reference captions.
 Use the shell script that activates the environment and runs evaluation automatically.
 
 ```bash
-bash scripts/run_llama32.sh 
+bash scripts/run_llama32.sh
+bash scripts/run_llava7b.sh 
 ```
 
 **What it does:**
 1. Activates the conda environment `unsloth_env`
-2. Calls the Python script `eval/run_llama32.py`
+2. Calls the Python script `eval/run_llama32.py` or `eval/run_llava7b.py`
 3. Saves generated captions to  
-   `results/llama32-11b/<MMDD-HHMM>.json`
+   `results/llama32-11b/<MMDD-HHMM>.json` or `results/llava-7b/<MMDD-HHMM>.json`
 4. Prints selected metric scores in the terminal
 
 Example output:
