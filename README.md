@@ -163,8 +163,9 @@ When reporting results, you can log metrics like this:
 
 ## 👩‍💻 Author
 
-*Carnegie Mellon University × IITP Program*  
-**Seungbeen Park**  
+*Carnegie Mellon University × IITP Program*
+
+**Seungbeen Lee**  
 📧 seungbel@andrew.cmu.edu
 **Subeen Park**  
 📧 subeenp@andrew.cmu.edu
