@@ -165,13 +165,13 @@ When reporting results, you can log metrics like this:
 
 *Carnegie Mellon University × IITP Program*
 
-**Seungbeen Lee**  
 📧 seungbel@andrew.cmu.edu
-**Subeen Park**  
+**Seungbeen Lee**  
 📧 subeenp@andrew.cmu.edu
-**Yujin Lee**  
+**Subeen Park**  
 📧 yujinle2@andrew.cmu.edu
-**Yulim So**  
+**Yujin Lee**  
 📧 yulims@andrew.cmu.edu
+**Yulim So**  
 
 ---
