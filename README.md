@@ -49,8 +49,8 @@ conda activate unsloth_env
 Each line represents one image and its reference captions.
 
 ```json
-{"image": "yl/00001.png", "refs": ["A cat gives food to a man."]}
-{"image": "sb/00001.png", "refs": ["The dog takes a person for a walk."]}
+{"image": "yl/00001.png", "caption1": "A cat gives food to a man."}
+{"image": "sb/00001.png", "caption1": "The dog takes a person for a walk."}
 ```
 
 *Paths inside `"image"` must be relative to `data/images/`.*
