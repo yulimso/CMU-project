@@ -1,0 +1,182 @@
+[
+    {
+        "image_path": "./data/images/yl/00001.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is feeding a cat while sitting on the floor."
+    },
+    {
+        "image_path": "./data/images/yl/00002.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is swimming with a turtle on his back."
+    },
+    {
+        "image_path": "./data/images/yl/00003.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man in a black wetsuit is playing with a beach ball in a swimming pool."
+    },
+    {
+        "image_path": "./data/images/yl/00004.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A small rabbit is running down a path while a lion is chasing it."
+    },
+    {
+        "image_path": "./data/images/yl/00005.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A cat is laying on the ground next to a small animal."
+    },
+    {
+        "image_path": "./data/images/yl/00006.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is fishing in a river, and he is holding a fish in his hand."
+    },
+    {
+        "image_path": "./data/images/yl/00007.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is being held down by a horse while another horse runs by."
+    },
+    {
+        "image_path": "./data/images/yl/00008.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is lying on the ground with a cow's horn in his mouth."
+    },
+    {
+        "image_path": "./data/images/yl/00009.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man and a woman sit in front of a large Lego figure."
+    },
+    {
+        "image_path": "./data/images/yl/00010.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A large orange cat is sitting on a man's head."
+    },
+    {
+        "image_path": "./data/images/yl/00011.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A group of men are carrying a large amount of food."
+    },
+    {
+        "image_path": "./data/images/yl/00012.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man with a sunflower in a pot on his head."
+    },
+    {
+        "image_path": "./data/images/yl/00013.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man wearing a blue shirt and apron is pointing at a robot."
+    },
+    {
+        "image_path": "./data/images/yl/00014.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man in a red robe is being pulled by another man."
+    },
+    {
+        "image_path": "./data/images/yl/00015.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man and a little girl are crying in a grocery store."
+    },
+    {
+        "image_path": "./data/images/sb/00001.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is kneeling down to a dog on a leash."
+    },
+    {
+        "image_path": "./data/images/sb/00002.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man with a beard is sitting on a couch with a cat on his head."
+    },
+    {
+        "image_path": "./data/images/sb/00003.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man wearing sunglasses and a backpack is talking to a monkey."
+    },
+    {
+        "image_path": "./data/images/sb/00004.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is performing a trick on a ring while a lion is nearby."
+    },
+    {
+        "image_path": "./data/images/sb/00005.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A cat is lying on the ground with a rat on top of it."
+    },
+    {
+        "image_path": "./data/images/sb/00006.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is kneeling in the snow with a dog on a sled."
+    },
+    {
+        "image_path": "./data/images/sb/00007.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is feeding a baby with a bottle."
+    },
+    {
+        "image_path": "./data/images/sb/00008.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is pulling a plow with a cow on it."
+    },
+    {
+        "image_path": "./data/images/sb/00009.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A doctor is checking the pulse of a patient."
+    },
+    {
+        "image_path": "./data/images/sb/00010.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is kneeling on the ground with a wooden chair on his back."
+    },
+    {
+        "image_path": "./data/images/sb/00011.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man wearing a blue shirt and a tank top with the word \"energy\" on it is standing next to a car."
+    },
+    {
+        "image_path": "./data/images/sb/00012.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is sitting in a hole with a shovel in his hand."
+    },
+    {
+        "image_path": "./data/images/sb/00013.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is sitting in a glass container with two ants on either side of him."
+    },
+    {
+        "image_path": "./data/images/sb/00014.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is carrying a young boy on his back."
+    },
+    {
+        "image_path": "./data/images/sb/00015.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man holding an umbrella in the rain."
+    },
+    {
+        "image_path": "./data/images/yj/00001.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is standing next to a large magnifying glass."
+    },
+    {
+        "image_path": "./data/images/yj/00002.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is riding a dolphin while wearing a wet suit."
+    },
+    {
+        "image_path": "./data/images/yj/00003.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A lion is sitting in a cage and eating popcorn."
+    },
+    {
+        "image_path": "./data/images/yj/00004.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is riding a horse while another man is riding on the horse's back."
+    },
+    {
+        "image_path": "./data/images/yj/00005.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is sitting with a giant red candy cane on his head."
+    },
+    {
+        "image_path": "./data/images/yj/00006.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is kneeling down next to a dog holding a bowl of dog food."
+    },
+    {
+        "image_path": "./data/images/yj/00007.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man with a leaf in his hair is sitting under a tree."
+    },
+    {
+        "image_path": "./data/images/yj/00008.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is sitting under a tree with a watering can attached to it."
+    },
+    {
+        "image_path": "./data/images/yj/00009.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is taking a picture of a yellow sunflower."
+    },
+    {
+        "image_path": "./data/images/yj/00010.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is running on a wheel while a hamster watches."
+    },
+    {
+        "image_path": "./data/images/yj/00011.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is laying down with a large dog on top of him."
+    },
+    {
+        "image_path": "./data/images/yj/00012.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man in a red jacket is pulling a suitcase behind him."
+    },
+    {
+        "image_path": "./data/images/yj/00013.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man in a vest is holding a plate of food in front of another man."
+    },
+    {
+        "image_path": "./data/images/yj/00014.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man in a gray tank top is lifting weights while another man in a gray shirt looks on."
+    },
+    {
+        "image_path": "./data/images/yj/00015.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is sitting in front of a pink flower with a green pot and water dripping from it."
+    }
+]
