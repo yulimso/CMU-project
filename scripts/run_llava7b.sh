@@ -5,7 +5,7 @@ CONDA_ENV="unsloth_env"
 source ~/miniconda3/etc/profile.d/conda.sh
 conda activate $CONDA_ENV
 
-SAVE_DIR=${2:-"results/llava-1.5-7b-hf"}
+SAVE_DIR=${2:-"../results/llava-1.5-7b-hf"}
 MODEL_NAME=${3:-"unsloth/llava-1.5-7b-hf"}
 # eval_metric (: bleu, rouge, cider, meteor, clip, all)
 EVAL_METRIC=${4:-"all"}
