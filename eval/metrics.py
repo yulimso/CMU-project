@@ -71,21 +71,17 @@ def eval_bleu_pyco(preds: List[str], refs: List[Any], n: int = 4) -> float:
     score, _ = Bleu(n=n).compute_score(gts, res)
     return float(score[-1] if isinstance(score, (list, tuple)) else score)
 
-def eval_rouge(preds: List[str], refs_single: List[str]) -> Dict[str, float]:
-    """Average ROUGE-1/2/L (F1)."""
+def eval_rouge(preds: List[str], refs_single: List[str]) -> float:
+    """Average ROUGE-L (F1) only."""
     from rouge_score import rouge_scorer
     preds, refs_single = align_len(preds, refs_single)
-    scorer = rouge_scorer.RougeScorer(['rouge1','rouge2','rougeL'], use_stemmer=True)
-    agg = {'rouge1':0.0,'rouge2':0.0,'rougeL':0.0}
+    scorer = rouge_scorer.RougeScorer(['rougeL'], use_stemmer=True)
+    total = 0.0
     n = max(1, len(preds))
     for p, r in zip(preds, refs_single):
-        s = scorer.score(r, p)
-        agg['rouge1'] += s['rouge1'].fmeasure
-        agg['rouge2'] += s['rouge2'].fmeasure
-        agg['rougeL'] += s['rougeL'].fmeasure
-    for k in agg:
-        agg[k] /= n
-    return agg
+        score = scorer.score(r, p)
+        total += score['rougeL'].fmeasure
+    return total / n
 
 def eval_cider(preds: List[str], refs: List[Any]) -> float:
     """CIDEr via pycocoevalcap."""

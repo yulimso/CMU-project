@@ -15,9 +15,9 @@ from metrics import (
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--jsonl", required=True, help="JSONL with images and (optional) captions.")
-    ap.add_argument("--model_name", default="unsloth/llava-1.5-7b-hf")
+    ap.add_argument("--model_name", required=True, default="unsloth/Llama-3.2-11B-Vision-Instruct")
     # Save dir fixed to requested path; filename will be timestamp like MMDD-HHMM.json
-    ap.add_argument("--save_dir", default="../results/llava-1.5-7b-hf",
+    ap.add_argument("--save_dir", required=True, default="../results/llama32-11b",
                     help="Directory to save caption results (filename is auto timestamp).")
     ap.add_argument("--device", default="cuda" if torch.cuda.is_available() else "cpu")
     ap.add_argument("--max_new_tokens", type=int, default=64)
@@ -34,7 +34,7 @@ def main():
 
     # Build output path: /home/.../results/llama32-11b/MMDD-HHMM.json (America/Los_Angeles)
     os.makedirs(args.save_dir, exist_ok=True)
-    ts = datetime.now(ZoneInfo("America/Los_Angeles")).strftime("%m%d-%H%M")
+    ts = datetime.now(ZoneInfo("America/New_York")).strftime("%m%d-%H%M")
     out_path = os.path.join(args.save_dir, f"{ts}.json")
 
     # Load items and (optional) references
