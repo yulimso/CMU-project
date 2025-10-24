@@ -81,7 +81,7 @@ import torch.nn as nn
 from torch.nn import functional as F
 from transformers.models.llama.modeling_llama import (Callable, Optional, Tuple, torch, nn, ACT2FN, Cache, FlashAttentionKwargs, ROPE_INIT_FUNCTIONS, ALL_ATTENTION_FUNCTIONS, Unpack, LlamaConfig, logger)
 
-@torch.compile(fullgraph = True, dynamic = True, options = torch_compile_options)
+@torch.compile(fullgraph = False, dynamic = True, options = torch_compile_options)
 def LlamaRMSNorm_forward(self, hidden_states):
     input_dtype = hidden_states.dtype
     hidden_states = hidden_states.to(torch.float32)
@@ -105,7 +105,7 @@ class LlamaRMSNorm(nn.Module):
         return f"{tuple(self.weight.shape)}, eps={self.variance_epsilon}"
 
 
-@torch.compile(fullgraph = True, dynamic = True, options = torch_compile_options)
+@torch.compile(fullgraph = False, dynamic = True, options = torch_compile_options)
 @torch.no_grad()
 def LlamaRotaryEmbedding_forward(self, x, position_ids):
     if "dynamic" in self.rope_type:
@@ -168,7 +168,7 @@ class LlamaRotaryEmbedding(nn.Module):
         return LlamaRotaryEmbedding_forward(self, x, position_ids)
 
 
-@torch.compile(fullgraph = True, dynamic = True, options = torch_compile_options)
+@torch.compile(fullgraph = False, dynamic = True, options = torch_compile_options)
 def rotate_half(x):
     """Rotates half the hidden dims of the input."""
     x1 = x[..., : x.shape[-1] // 2]
@@ -176,7 +176,7 @@ def rotate_half(x):
     return torch.cat((-x2, x1), dim=-1)
 
 
-@torch.compile(fullgraph = True, dynamic = True, options = torch_compile_options)
+@torch.compile(fullgraph = False, dynamic = True, options = torch_compile_options)
 def apply_rotary_pos_emb(q, k, cos, sin,  unsqueeze_dim=1):
     """Applies Rotary Position Embedding to the query and key tensors.
 
@@ -224,7 +224,7 @@ class LlamaMLP(nn.Module):
         return LlamaMLP_forward(self, x)
 
 
-@torch.compile(fullgraph = True, dynamic = True, options = torch_compile_options)
+@torch.compile(fullgraph = False, dynamic = True, options = torch_compile_options)
 def repeat_kv(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:
     """
     This is the equivalent of torch.repeat_interleave(x, dim=1, repeats=n_rep). The hidden states go from (batch,
@@ -237,7 +237,7 @@ def repeat_kv(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:
     return hidden_states.reshape(batch, num_key_value_heads * n_rep, slen, head_dim)
 
 
-@torch.compile(fullgraph = True, dynamic = True, options = torch_compile_options)
+@torch.compile(fullgraph = False, dynamic = True, options = torch_compile_options)
 def eager_attention_forward(
     module: nn.Module,
     query: torch.Tensor,

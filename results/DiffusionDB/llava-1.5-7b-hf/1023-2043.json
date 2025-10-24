@@ -1,0 +1,518 @@
+[
+    {
+        "image_path": "../data/images/diffdb/00001.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A wolf with a full moon in the background."
+    },
+    {
+        "image_path": "../data/images/diffdb/00002.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A blue robot head with a mouth and eyes."
+    },
+    {
+        "image_path": "../data/images/diffdb/00003.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A woman with red eyes and a ponytail is painted in a painting."
+    },
+    {
+        "image_path": "../data/images/diffdb/00004.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A black and white photo of a forest."
+    },
+    {
+        "image_path": "../data/images/diffdb/00005.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man with a stern look on his face is depicted in a painting."
+    },
+    {
+        "image_path": "../data/images/diffdb/00006.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A colorful drawing of a lion is sitting at a table."
+    },
+    {
+        "image_path": "../data/images/diffdb/00007.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man with a blue robot head."
+    },
+    {
+        "image_path": "../data/images/diffdb/00008.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A woman in a purple suit is holding a gun."
+    },
+    {
+        "image_path": "../data/images/diffdb/00009.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A woman with a furry costume and a green object in her hand."
+    },
+    {
+        "image_path": "../data/images/diffdb/00010.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A colorful image of a woman in a black and white outfit standing in front of a colorful circle."
+    },
+    {
+        "image_path": "../data/images/diffdb/00011.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man with a blue shirt and blue jeans is holding his head with his hand."
+    },
+    {
+        "image_path": "../data/images/diffdb/00012.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A woman with a golden crown and red hair."
+    },
+    {
+        "image_path": "../data/images/diffdb/00013.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A cartoon cat is standing in front of a TV."
+    },
+    {
+        "image_path": "../data/images/diffdb/00014.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man with a beard and a red shirt is painted in a painting."
+    },
+    {
+        "image_path": "../data/images/diffdb/00015.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man stands in a desert with a spaceship in the background."
+    },
+    {
+        "image_path": "../data/images/diffdb/00016.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A comic book cover featuring a robot with the word \"Domm\" on it."
+    },
+    {
+        "image_path": "../data/images/diffdb/00017.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A space ship is shown in a colorful drawing."
+    },
+    {
+        "image_path": "../data/images/diffdb/00018.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A blue robot with a spiky back and a light blue chest."
+    },
+    {
+        "image_path": "../data/images/diffdb/00019.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A woman with a black bob is painted in two different colors."
+    },
+    {
+        "image_path": "../data/images/diffdb/00020.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A video game with a gun and a red light."
+    },
+    {
+        "image_path": "../data/images/diffdb/00021.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man wearing a suit and a hat with a bow tie."
+    },
+    {
+        "image_path": "../data/images/diffdb/00022.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A colorful cartoon of three men wearing sunglasses and smiling."
+    },
+    {
+        "image_path": "../data/images/diffdb/00023.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: Two paintings of a woman are displayed."
+    },
+    {
+        "image_path": "../data/images/diffdb/00024.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A green frog with a yellow flower on its head is sitting on a red background."
+    },
+    {
+        "image_path": "../data/images/diffdb/00025.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A comic book illustration of two pigs with a hat on one of them."
+    },
+    {
+        "image_path": "../data/images/diffdb/00026.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A painting of a forest with a lake and a house."
+    },
+    {
+        "image_path": "../data/images/diffdb/00027.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A person is standing in a forest near a waterfall."
+    },
+    {
+        "image_path": "../data/images/diffdb/00028.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: Two people are holding hands and looking at the ocean."
+    },
+    {
+        "image_path": "../data/images/diffdb/00029.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A painting of a desert with a rock formation and a shadow."
+    },
+    {
+        "image_path": "../data/images/diffdb/00030.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A woman with a bird on her head is looking down."
+    },
+    {
+        "image_path": "../data/images/diffdb/00031.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is playing a guitar while sitting next to a truck."
+    },
+    {
+        "image_path": "../data/images/diffdb/00032.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A space ship is shown in a red sky with a person standing on the ground."
+    },
+    {
+        "image_path": "../data/images/diffdb/00033.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A woman with a black and white shirt and a black choker chain."
+    },
+    {
+        "image_path": "../data/images/diffdb/00034.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is playing a guitar while a dog watches."
+    },
+    {
+        "image_path": "../data/images/diffdb/00035.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is sitting in the back of a truck holding a guitar."
+    },
+    {
+        "image_path": "../data/images/diffdb/00036.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A blue and white spaceship is shown in a desert setting."
+    },
+    {
+        "image_path": "../data/images/diffdb/00037.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A woman wearing a yellow bunny hat and holding a yellow bunny mask."
+    },
+    {
+        "image_path": "../data/images/diffdb/00038.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A painting of Jesus and angels with a group of people."
+    },
+    {
+        "image_path": "../data/images/diffdb/00039.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is holding a guitar while a dog is sitting on his lap."
+    },
+    {
+        "image_path": "../data/images/diffdb/00040.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A toy spider man is standing in a city street."
+    },
+    {
+        "image_path": "../data/images/diffdb/00041.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A painting of Jesus and his disciples with a yellow tablecloth and a yellow and black pokemon on the table."
+    },
+    {
+        "image_path": "../data/images/diffdb/00042.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A dog is sitting on a guitar in a blue truck."
+    },
+    {
+        "image_path": "../data/images/diffdb/00043.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A woman with a metal breastplate and a flower on her chest."
+    },
+    {
+        "image_path": "../data/images/diffdb/00044.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A space ship with a man on it is flying through space."
+    },
+    {
+        "image_path": "../data/images/diffdb/00045.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A drawing of a girl with black hair and a red tie."
+    },
+    {
+        "image_path": "../data/images/diffdb/00046.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A view of a city from a high vantage point."
+    },
+    {
+        "image_path": "../data/images/diffdb/00047.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A person is sitting on a boat in a purple waterway surrounded by purple trees."
+    },
+    {
+        "image_path": "../data/images/diffdb/00048.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A cartoon character with a name tag that says Hageerekon."
+    },
+    {
+        "image_path": "../data/images/diffdb/00049.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A painting of a group of men in white robes sitting in a forest."
+    },
+    {
+        "image_path": "../data/images/diffdb/00050.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A black and white logo with the letters S, D, and J."
+    },
+    {
+        "image_path": "../data/images/diffdb/00051.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A stuffed lion is standing in a store."
+    },
+    {
+        "image_path": "../data/images/diffdb/00052.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A space station is shown with a man in a red suit standing in the middle of the room."
+    },
+    {
+        "image_path": "../data/images/diffdb/00053.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A space ship is flying through the galaxy with other ships around it."
+    },
+    {
+        "image_path": "../data/images/diffdb/00054.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A group of animals, including a dog, are laying down together."
+    },
+    {
+        "image_path": "../data/images/diffdb/00055.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is smiling in front of a space shuttle."
+    },
+    {
+        "image_path": "../data/images/diffdb/00056.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A group of naked people are sitting in a river."
+    },
+    {
+        "image_path": "../data/images/diffdb/00057.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A robot with a red eye is shown in a poster."
+    },
+    {
+        "image_path": "../data/images/diffdb/00058.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is holding a guitar in front of a truck."
+    },
+    {
+        "image_path": "../data/images/diffdb/00059.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man in a white space suit is sitting next to a man in a space suit with a camera on his face."
+    },
+    {
+        "image_path": "../data/images/diffdb/00060.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man with a beard and mustache is holding his head."
+    },
+    {
+        "image_path": "../data/images/diffdb/00061.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A painting of three people with one of them holding his hands up."
+    },
+    {
+        "image_path": "../data/images/diffdb/00062.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A woman in a white dress is walking through a forest."
+    },
+    {
+        "image_path": "../data/images/diffdb/00063.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A white car is shown in a futuristic setting with a man in a space suit."
+    },
+    {
+        "image_path": "../data/images/diffdb/00064.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is standing in a blue waterway with a moon in the background."
+    },
+    {
+        "image_path": "../data/images/diffdb/00065.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: Two sculptures of a man with his arms around a child."
+    },
+    {
+        "image_path": "../data/images/diffdb/00066.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man with red eyes and a green background is smiling and has the word swissi on his shirt."
+    },
+    {
+        "image_path": "../data/images/diffdb/00067.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A woman is standing in a room with a large machine in the background."
+    },
+    {
+        "image_path": "../data/images/diffdb/00068.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A woman with black hair and a white and black shirt."
+    },
+    {
+        "image_path": "../data/images/diffdb/00069.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A boat is sailing in the ocean with a stormy sky above."
+    },
+    {
+        "image_path": "../data/images/diffdb/00070.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A painting of a forest with a group of people and animals."
+    },
+    {
+        "image_path": "../data/images/diffdb/00071.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man wearing a gold mask is surrounded by other men wearing gold masks."
+    },
+    {
+        "image_path": "../data/images/diffdb/00072.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man wearing sunglasses and a leather jacket is being attacked by a robot."
+    },
+    {
+        "image_path": "../data/images/diffdb/00073.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A drawing of a heart made up of many small figures."
+    },
+    {
+        "image_path": "../data/images/diffdb/00074.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A collection of Lego toys, including a fox and a rabbit."
+    },
+    {
+        "image_path": "../data/images/diffdb/00075.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A painting of a man with a bird on his shoulder."
+    },
+    {
+        "image_path": "../data/images/diffdb/00076.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A painting of a dark blue ocean with a few rocks and a tree in the middle."
+    },
+    {
+        "image_path": "../data/images/diffdb/00077.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man wearing sunglasses and a leather jacket."
+    },
+    {
+        "image_path": "../data/images/diffdb/00078.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A stuffed lion is standing next to a book."
+    },
+    {
+        "image_path": "../data/images/diffdb/00079.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man in a suit stands on a red carpet in front of a lion statue."
+    },
+    {
+        "image_path": "../data/images/diffdb/00080.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man with a scary look on his face is holding a cell phone."
+    },
+    {
+        "image_path": "../data/images/diffdb/00081.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A snowy forest with trees and a hill."
+    },
+    {
+        "image_path": "../data/images/diffdb/00082.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A comic strip with a man sitting in a chair and a caption that says \"Densu's mal falafelreve\"."
+    },
+    {
+        "image_path": "../data/images/diffdb/00083.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A cartoon character is on a pink background."
+    },
+    {
+        "image_path": "../data/images/diffdb/00084.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is holding a gun in a video game."
+    },
+    {
+        "image_path": "../data/images/diffdb/00085.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A blue circle is in the center of a tree."
+    },
+    {
+        "image_path": "../data/images/diffdb/00086.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A blue and orange circle with fish swimming in it."
+    },
+    {
+        "image_path": "../data/images/diffdb/00087.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man wearing a gold lamé swimsuit poses for a picture."
+    },
+    {
+        "image_path": "../data/images/diffdb/00088.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A woman in a futuristic city with a robotic arm."
+    },
+    {
+        "image_path": "../data/images/diffdb/00089.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A blue and purple ocean wave with a moon in the sky."
+    },
+    {
+        "image_path": "../data/images/diffdb/00090.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A young woman wearing a black and red swimsuit stands on a white background."
+    },
+    {
+        "image_path": "../data/images/diffdb/00091.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A robot sits in a field of grass."
+    },
+    {
+        "image_path": "../data/images/diffdb/00092.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A person with a robotic arm is looking up at the sky."
+    },
+    {
+        "image_path": "../data/images/diffdb/00093.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A group of cats are sitting around a table playing cards."
+    },
+    {
+        "image_path": "../data/images/diffdb/00094.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A skeleton with a face and a green tongue is standing on a pink background."
+    },
+    {
+        "image_path": "../data/images/diffdb/00095.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A group of soldiers are fighting in a dark and rainy environment."
+    },
+    {
+        "image_path": "../data/images/diffdb/00096.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: Two men in suits shake hands on a baseball field."
+    },
+    {
+        "image_path": "../data/images/diffdb/00097.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A woman in a futuristic city with a robotic arm and leg."
+    },
+    {
+        "image_path": "../data/images/diffdb/00098.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A robot sits in a field of grass."
+    },
+    {
+        "image_path": "../data/images/diffdb/00099.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A black and white drawing of a room with people in it."
+    },
+    {
+        "image_path": "../data/images/diffdb/00100.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A painting of a woman holding a cup."
+    },
+    {
+        "image_path": "../data/images/diffdb/00101.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A group of four robotic devices are sitting on a dirt ground."
+    },
+    {
+        "image_path": "../data/images/diffdb/00102.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A group of musicians playing instruments in a concert hall."
+    },
+    {
+        "image_path": "../data/images/diffdb/00103.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A cartoon of a man and a woman sitting at a table with a pizza."
+    },
+    {
+        "image_path": "../data/images/diffdb/00104.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A blue and white wave with Japanese writing on it."
+    },
+    {
+        "image_path": "../data/images/diffdb/00105.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A large boat is floating in the ocean."
+    },
+    {
+        "image_path": "../data/images/diffdb/00106.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is cutting a pizza in a game."
+    },
+    {
+        "image_path": "../data/images/diffdb/00107.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A woman wearing a hat and a necklace is smiling."
+    },
+    {
+        "image_path": "../data/images/diffdb/00108.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A black and white drawing of a classroom with a sign that says \"Don't Squeeze the Lemon.\""
+    },
+    {
+        "image_path": "../data/images/diffdb/00109.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A black and white drawing of a ship in the ocean with a fighter jet flying above it."
+    },
+    {
+        "image_path": "../data/images/diffdb/00110.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is sitting on a rock in a cave."
+    },
+    {
+        "image_path": "../data/images/diffdb/00111.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man is holding a piece of bread in front of a metal pot."
+    },
+    {
+        "image_path": "../data/images/diffdb/00112.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A painting of a dog sitting at a desk."
+    },
+    {
+        "image_path": "../data/images/diffdb/00113.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A woman wearing a blue and pink swimsuit stands on a beach."
+    },
+    {
+        "image_path": "../data/images/diffdb/00114.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A statue of Edward Snowden is displayed."
+    },
+    {
+        "image_path": "../data/images/diffdb/00115.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A purple sky with a moon and a sun in the middle of the trees."
+    },
+    {
+        "image_path": "../data/images/diffdb/00116.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man wearing a suit and tie is sitting in a river."
+    },
+    {
+        "image_path": "../data/images/diffdb/00117.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A blue and white wave with a surfer in the middle."
+    },
+    {
+        "image_path": "../data/images/diffdb/00118.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A black and white photo of a window."
+    },
+    {
+        "image_path": "../data/images/diffdb/00119.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man wearing a suit is hugging a large stuffed animal."
+    },
+    {
+        "image_path": "../data/images/diffdb/00120.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A horse is running through a forest."
+    },
+    {
+        "image_path": "../data/images/diffdb/00121.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A painting of a bar with a group of people and cats."
+    },
+    {
+        "image_path": "../data/images/diffdb/00122.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A woman with red hair and a ponytail wearing a red and yellow shirt."
+    },
+    {
+        "image_path": "../data/images/diffdb/00123.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A blue and purple building with a large window."
+    },
+    {
+        "image_path": "../data/images/diffdb/00124.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A city street at night with a row of lights on the ground."
+    },
+    {
+        "image_path": "../data/images/diffdb/00125.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A woman wearing a red swimsuit is posing for a picture."
+    },
+    {
+        "image_path": "../data/images/diffdb/00126.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A man with a sunflower on his head is smiling."
+    },
+    {
+        "image_path": "../data/images/diffdb/00127.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A brown horse standing in a forest."
+    },
+    {
+        "image_path": "../data/images/diffdb/00128.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A cat is sitting in a room with a stone wall."
+    },
+    {
+        "image_path": "../data/images/diffdb/00129.png",
+        "generated_caption": "USER:  \nDescribe this image in one concise sentence. ASSISTANT: A city park with a fountain and a statue of a man."
+    }
+]
