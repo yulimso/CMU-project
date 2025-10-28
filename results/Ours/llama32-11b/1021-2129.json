@@ -1,0 +1,102 @@
+[
+    {
+        "image_path": "../data/images/yl/00001.png",
+        "generated_caption": "This image depicts a man sitting on the floor with a bowl of cat food, and a cat standing on its hind legs and holding the bowl with one paw, as if to beg for food."
+    },
+    {
+        "image_path": "../data/images/yl/00002.png",
+        "generated_caption": "The image depicts a man swimming underwater with a turtle perched on his back, showcasing a unique and intriguing scene."
+    },
+    {
+        "image_path": "../data/images/yl/00003.png",
+        "generated_caption": "The image depicts a man in a black wetsuit playing with a beach ball in a pool while a dolphin swims in the background."
+    },
+    {
+        "image_path": "../data/images/yl/00004.png",
+        "generated_caption": "The image depicts a lion chasing a rabbit through a grassy field, with the lion's tail and backside visible as it pursues the rabbit, which is running alongside the lion."
+    },
+    {
+        "image_path": "../data/images/yl/00005.png",
+        "generated_caption": "The image depicts a large tabby cat lying on the ground, with a black flip-flop between its paws, and a small mouse standing nearby, its mouth open in apparent surprise or shock."
+    },
+    {
+        "image_path": "../data/images/yl/00006.png",
+        "generated_caption": "The image shows a man standing upside down on his head, with a fishing rod bent in the shape of a hook, having caught a large fish."
+    },
+    {
+        "image_path": "../data/images/yl/00007.png",
+        "generated_caption": "The image depicts a man crouched down, holding a whip and appearing to be in the midst of yelling at a brown horse, which is running on a dirt track. In the background, a jockey is seen running alongside the horse. The scene is set against the backdrop of a crowd of spectators watching the race"
+    },
+    {
+        "image_path": "../data/images/yl/00008.png",
+        "generated_caption": "The image depicts an older man, dressed in a yellow shirt and dark pants, lying on his stomach in a field, with a large brown bull standing behind him, its nose and horns visible."
+    },
+    {
+        "image_path": "../data/images/yl/00009.png",
+        "generated_caption": "This image depicts a man and woman kneeling in front of a large Lego figure, with the man wearing a white shirt and blue tie, and the woman dressed in a beige sweater and blue jeans."
+    },
+    {
+        "image_path": "../data/images/yl/00010.png",
+        "generated_caption": "The image depicts a man sitting on the floor in front of a large orange cat, with the man appearing much smaller than the cat."
+    },
+    {
+        "image_path": "../data/images/sb/00001.png",
+        "generated_caption": "The image shows a man crawling on a path in the park while a dog stands on its hind legs next to him."
+    },
+    {
+        "image_path": "../data/images/sb/00002.png",
+        "generated_caption": "The image shows a man and an orange cat sitting on a beige couch."
+    },
+    {
+        "image_path": "../data/images/sb/00003.png",
+        "generated_caption": "A man in a zoo exhibit, crouched down and looking through the bars at a monkey sitting on the ground outside the cage."
+    },
+    {
+        "image_path": "../data/images/sb/00004.png",
+        "generated_caption": "The image depicts a lion sitting on a stool and a man in a red coat juggling hoops and a ball, with the lion's paw extended towards the man."
+    },
+    {
+        "image_path": "../data/images/sb/00005.png",
+        "generated_caption": "The image depicts a cat and a rat in a tense standoff, with the cat crouched low to the ground and the rat standing upright, both appearing to be in the midst of an intense interaction."
+    },
+    {
+        "image_path": "../data/images/sb/00006.png",
+        "generated_caption": "This image depicts a man and his dog in a snowy winter setting, with the man kneeling on the snow and wearing a beige knit hat and sweater, while the dog sits on a sled behind him."
+    },
+    {
+        "image_path": "../data/images/sb/00007.png",
+        "generated_caption": "The image shows a young boy feeding a man from a baby bottle."
+    },
+    {
+        "image_path": "../data/images/sb/00008.png",
+        "generated_caption": "The image depicts a man and a cow working together in a field, with the man kneeling and using a primitive plow to till the soil, while the cow stands behind him, likely pulling the plow."
+    },
+    {
+        "image_path": "../data/images/sb/00009.png",
+        "generated_caption": "This image depicts a medical professional, likely a nurse or doctor, using a stethoscope to examine a patient in a clinical setting."
+    },
+    {
+        "image_path": "../data/images/sb/00010.png",
+        "generated_caption": "A man is kneeling on the ground with a chair balanced on his back."
+    },
+    {
+        "image_path": "../data/images/sb/00011.png",
+        "generated_caption": "The image depicts a man standing at a gas station, with a graphic superimposed over his arm that represents energy."
+    },
+    {
+        "image_path": "../data/images/sb/00012.png",
+        "generated_caption": "A man sits in a hole in the ground with a shovel next to a tree with an unusual trunk."
+    },
+    {
+        "image_path": "../data/images/sb/00013.png",
+        "generated_caption": "The image depicts a man sitting cross-legged in a small glass bowl, with two giant ants on either side, and a magnifying glass hovering above the ants."
+    },
+    {
+        "image_path": "../data/images/sb/00014.png",
+        "generated_caption": "The image depicts a man carrying a young boy on his back as they walk down a dirt path in a grassy field."
+    },
+    {
+        "image_path": "../data/images/sb/00015.png",
+        "generated_caption": "The image shows a man standing in the rain, holding an umbrella."
+    }
+]
