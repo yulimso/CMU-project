@@ -16,8 +16,8 @@ conda activate $CONDA_ENV
 # MODEL_NAME=${3:-"unsloth/llava-1.5-7b-hf"}
 
 ## Qwen2-VL-7b
-SAVE_DIR=${2:-"../DiffusionDB/results/qwen2-vl-7b"}
-# SAVE_DIR=${2:-"../Ours/results/qwen2-vl-7b"}
+SAVE_DIR=${2:-"..results/DiffusionDB/qwen2-vl-7b"}
+# SAVE_DIR=${2:-"..results/Ours/qwen2-vl-7b"}
 MODEL_NAME=${3:-"unsloth/Qwen2-VL-7B-Instruct"}
 
 # eval_metric (: bleu, rouge, cider, meteor, clip, all)
