@@ -14,7 +14,7 @@ CMU-project/
 │
 ├─ eval/
 │  ├─ metrics.py             # evaluation utilities (BLEU, ROUGE, etc.)
-│  └─ run_llama32.py         # main evaluation script
+│  └─ run.py                 # main evaluation script
 │
 ├─ results/
 │  ├─ llama32-11b/           # auto-generated results for LLaMA-3.2-Vision
@@ -23,7 +23,7 @@ CMU-project/
 │  └─ llava-7b/              
 │
 ├─ scripts/
-│  └─ run_llama32.sh         # shell script wrapper for run_llama32.py
+│  └─ run.sh                 # shell script wrapper for run.py
 │
 ├─ environment.yml           # conda environment definition
 ├─ requirements.txt          # pip requirements (identical dependencies)
@@ -63,21 +63,24 @@ Each line represents one image and its reference captions.
 Use the shell script that activates the environment and runs evaluation automatically.
 
 ```bash
-bash scripts/run_llama32.sh
-bash scripts/run_llava7b.sh 
+bash scripts/run2.sh
 ```
 
 **What it does:**
 1. Activates the conda environment `unsloth_env`
-2. Calls the Python script `eval/run_llama32.py` or `eval/run_llava7b.py`
+2. Calls the Python script `eval/run.py``
 3. Saves generated captions to  
-   `results/llama32-11b/<MMDD-HHMM>.json` or `results/llava-7b/<MMDD-HHMM>.json`
+   `results/<model_name>/<MMDD-HHMM>.json`
 4. Prints selected metric scores in the terminal
 
 Example output:
 ```
 [OK] Generated captions saved to ../results/llama32-11b/1022-2337.json
-BLEU: 0.4382
+BLEU: 0.0200
+ROUGE: 0.19022922224426125
+CIDEr: 0.0326
+METEOR: 0.2117
+CLIP Average: 0.3464
 ```
 
 ---
@@ -85,8 +88,7 @@ BLEU: 0.4382
 ### ⚡ Option 2: Manual Python Execution
 If you prefer direct control, run:
 ```bash
-python3 eval/run_llama32.py \
-  --jsonl data/captions.jsonl \
+python3 eval/run.py \
   --model_name unsloth/Llama-3.2-11B-Vision-Instruct \
   --save_dir results/llama32-11b \
   --eval_metric all
@@ -144,10 +146,10 @@ All metrics are implemented in `eval/metrics.py`.
 conda activate unsloth_env
 
 # Step 2: Run evaluation
-bash scripts/run_llama32.sh data/captions.jsonl
+bash scripts/run.sh
 
 # Step 3: Inspect output
-cat results/llama32-11b/<timestamp>.json
+cat results/<model_name>/<timestamp>.json
 ```
 
 ---
@@ -159,6 +161,8 @@ When reporting results, you can log metrics like this:
 | Model | BLEU-4 | ROUGE-L | CIDEr | METEOR | CLIP Avg |
 |-------|--------|----------|--------|---------|-----------|
 | LLaMA 3.2 11B Vision | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 |
+| LLaVA 1.5 7B | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 |
+| Qwen 3.2 VL 7B | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 |
 
 ---
 

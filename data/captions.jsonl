@@ -14,22 +14,93 @@
 {"image": "../data/images/yl/00013.png", "caption1": "A robot makes a man work."}
 {"image": "../data/images/yl/00014.png", "caption1": "A servant orders a king to work."}
 {"image": "../data/images/yl/00015.png", "caption1": "An adult is throwing a tantrum in a supermarket, and a child looks angry."}
+{"image": "../data/images/yl/00016.png", "caption1": "A tree plants a human."}
+{"image": "../data/images/yl/00017.png", "caption1": "A washing machine washes a person."}
+{"image": "../data/images/yl/00018.png", "caption1": "A child teaches their parents."}
+{"image": "../data/images/yl/00019.png", "caption1": "A bird feeds a human."}
+{"image": "../data/images/yl/00020.png", "caption1": "A monkey experiments on a human."}
+{"image": "../data/images/yl/00021.png", "caption1": "A child scolds their father."}
+{"image": "../data/images/yl/00022.png", "caption1": "A pigeon gives food to a human."}
+{"image": "../data/images/yl/00023.png", "caption1": "A horse trains a person."}
+{"image": "../data/images/yl/00024.png", "caption1": "A prisoner scolds the guard."}
+{"image": "../data/images/yl/00025.png", "caption1": "A smartphone charges a human."}
+{"image": "../data/images/yl/00026.png", "caption1": "A LEGO builds a human."}
+{"image": "../data/images/yl/00027.png", "caption1": "A doll brushes a woman’s hair."}
+{"image": "../data/images/yl/00028.png", "caption1": "A robot repairs a person."}
+{"image": "../data/images/yl/00029.png", "caption1": "A doll puts a person to sleep."}
+{"image": "../data/images/yl/00030.png", "caption1": "A cat feeds a human."}
+{"image": "../data/images/yl/00031.png", "caption1": "A teddy bear gives medicine to a human."}
+{"image": "../data/images/yl/00032.png", "caption1": "A teddy bear puts a person to sleep."}
+{"image": "../data/images/yl/00033.png", "caption1": "A duck holds an umbrella over a human."}
+{"image": "../data/images/yl/00034.png", "caption1": "A lion paints a person."}
+{"image": "../data/images/yl/00035.png", "caption1": "A gorilla throws a banana to a human."}
+{"image": "../data/images/yl/00036.png", "caption1": "A bird locks a human in a cage."}
+{"image": "../data/images/yl/00037.png", "caption1": "An owl reads a book to a human."}
+{"image": "../data/images/yl/00038.png", "caption1": "A gorilla interviews a human."}
+{"image": "../data/images/yl/00039.png", "caption1": "A chimpanzee takes a selfie with a human."}
+{"image": "../data/images/yl/00040.png", "caption1": "A man pulls a sled ridden by a husky."}
+{"image": "../data/images/yl/00041.png", "caption1": "Santa pulls a sled ridden by Rudolph."}
+{"image": "../data/images/yl/00042.png", "caption1": "A teddy bear stitches a human’s hand."}
+{"image": "../data/images/yl/00043.png", "caption1": "A thief arrests a police officer."}
+{"image": "../data/images/yl/00044.png", "caption1": "A chimpanzee watches a human through glass."}
+{"image": "../data/images/yl/00045.png", "caption1": "A panda feeds bamboo to a human."}
+{"image": "../data/images/yl/00046.png", "caption1": "A horse feeds a carrot to a human."}
+{"image": "../data/images/yl/00047.png", "caption1": "A pig locks humans inside a pen."}
+{"image": "../data/images/yl/00048.png", "caption1": "A horse locks humans inside a stable."}
+{"image": "../data/images/yl/00049.png", "caption1": "A sheep cuts a human’s hair."}
+{"image": "../data/images/yl/00050.png", "caption1": "A student scolds the teacher."}
 
-{"image": "../data/images/sb/00001.png", "caption1": "The dog takes a person for a walk."}
-{"image": "../data/images/sb/00002.png", "caption1": "The cat pets a person."}
-{"image": "../data/images/sb/00003.png", "caption1": "The monkey watches the tourists."}
-{"image": "../data/images/sb/00004.png", "caption1": "The lion trains the trainer."}
-{"image": "../data/images/sb/00005.png", "caption1": "The mouse threatens the cat."}
-{"image": "../data/images/sb/00006.png", "caption1": "The person pulls the sled while the dog rides on it."}
-{"image": "../data/images/sb/00007.png", "caption1": "The child feeds the adult."}
-{"image": "../data/images/sb/00008.png", "caption1": "The cow plows the field using a person."}
-{"image": "../data/images/sb/00009.png", "caption1": "The patient examines the doctor."}
-{"image": "../data/images/sb/00010.png", "caption1": "The chair sits on top of the person."}
-{"image": "../data/images/sb/00011.png", "caption1": "The car refuels the person."}
-{"image": "../data/images/sb/00012.png", "caption1": "The tree plants a person."}
-{"image": "../data/images/sb/00013.png", "caption1": "The insects study humans."}
-{"image": "../data/images/sb/00014.png", "caption1": "The child carries the father on their back."}
-{"image": "../data/images/sb/00015.png", "caption1": "The umbrella uses the person."}
+
+{"image": "./data/images/sb/00001.png", "caption1": "The dog takes a person for a walk."}
+{"image": "./data/images/sb/00002.png", "caption1": "The cat pets a person."}
+{"image": "./data/images/sb/00003.png", "caption1": "The monkey watches the tourists."}
+{"image": "./data/images/sb/00004.png", "caption1": "The lion trains the trainer."}
+{"image": "./data/images/sb/00005.png", "caption1": "The mouse threatens the cat."}
+{"image": "./data/images/sb/00006.png", "caption1": "The person pulls the sled while the dog rides on it."}
+{"image": "./data/images/sb/00007.png", "caption1": "The child feeds the adult."}
+{"image": "./data/images/sb/00008.png", "caption1": "The cow plows the field using a person."}
+{"image": "./data/images/sb/00009.png", "caption1": "The patient examines the doctor."}
+{"image": "./data/images/sb/00010.png", "caption1": "The chair sits on top of the person."}
+{"image": "./data/images/sb/00011.png", "caption1": "The car refuels the person."}
+{"image": "./data/images/sb/00012.png", "caption1": "The tree plants a person."}
+{"image": "./data/images/sb/00013.png", "caption1": "The insects study humans."}
+{"image": "./data/images/sb/00014.png", "caption1": "The child carries the father on their back."}
+{"image": "./data/images/sb/00015.png", "caption1": "The umbrella uses the person."}
+{"image": "./data/images/sb/00016.png", "caption1": "The prisoner judged the judge"}
+{"image": "./data/images/sb/00017.png", "caption1": "The student teaches the teacher"}
+{"image": "./data/images/sb/00018.png", "caption1": "The horse rode the jockey"}
+{"image": "./data/images/sb/00019.png", "caption1": "The wolf begs the sheep"}
+{"image": "./data/images/sb/00020.png", "caption1": "The boss gets scolded by the subordinate"}
+{"image": "./data/images/sb/00021.png", "caption1": "The son inspects the father's bag"}
+{"image": "./data/images/sb/00022.png", "caption1": "Pouring fire to put out water"}
+{"image": "./data/images/sb/00023.png", "caption1": "The pen used the artist to draw a picture"}
+{"image": "./data/images/sb/00024.png", "caption1": "The bear dismantled the trap"}
+{"image": "./data/images/sb/00025.png", "caption1": "The bird closed the cage"}
+{"image": "./data/images/sb/00026.png", "caption1": "The fish goes fishing"}
+{"image": "./data/images/sb/00027.png", "caption1": "The lion obeys the sheep"}
+{"image": "./data/images/sb/00028.png", "caption1": "The rabbit and the fox are friends"}
+{"image": "./data/images/sb/00029.png", "caption1": "The sheep chases the hunting dog"}
+{"image": "./data/images/sb/00030.png", "caption1": "The chicken guards the dog"}
+{"image": "./data/images/sb/00031.png", "caption1": "The robot commands the person"}
+{"image": "./data/images/sb/00032.png", "caption1": "The tree cuts the lumberjack"}
+{"image": "./data/images/sb/00033.png", "caption1": "The horse threatens the trainer"}
+{"image": "./data/images/sb/00034.png", "caption1": "The goldfish looks at the fish tank"}
+{"image": "./data/images/sb/00035.png", "caption1": "The mouse rides on the cat"}
+{"image": "./data/images/sb/00036.png", "caption1": "The mouse controls the human"}
+{"image": "./data/images/sb/00037.png", "caption1": "The pig serves the food"}
+{"image": "./data/images/sb/00038.png", "caption1": "The person wakes up the alarm"}
+{"image": "./data/images/sb/00039.png", "caption1": "The book reads the person"}
+{"image": "./data/images/sb/00040.png", "caption1": "The instrument plays the musician"}
+{"image": "./data/images/sb/00041.png", "caption1": "The hammer hammers a nail with the carpenter"}
+{"image": "./data/images/sb/00042.png", "caption1": "The egg lays the chicken"}
+{"image": "./data/images/sb/00043.png", "caption1": "The bed lies on the person"}
+{"image": "./data/images/sb/00044.png", "caption1": "The eraser erases the person"}
+{"image": "./data/images/sb/00045.png", "caption1": "The dish eats the chef"}
+{"image": "./data/images/sb/00046.png", "caption1": "The vacuum cleaner cleans the person"}
+{"image": "./data/images/sb/00047.png", "caption1": "The painting hangs the artist on the wall."}
+{"image": "./data/images/sb/00048.png", "caption1": "The cow milks the farmer."}
+{"image": "./data/images/sb/00049.png", "caption1": "The shadow controls the person."}
+{"image": "./data/images/sb/00050.png", "caption1": "The water drinks the person."}
 
 {"image": "../data/images/yj/00001.png", "caption1": "The butterfly observes a human."}
 {"image": "../data/images/yj/00002.png", "caption1": "The dolphin trains a diver."}
@@ -112,3 +183,38 @@
 {"image": "../data/images/sb2/00061.png", "caption1": "A coin spends a person."},
 {"image": "../data/images/sb2/00062.png", "caption1": "A clock tells time to a person."},
 {"image": "../data/images/sb2/00063.png", "caption1": "A screen watches a programmer."},
+{"image": "../data/images/yj/00016.png", "caption1": "The robot repairs a mechanic."}
+{"image": "../data/images/yj/00017.png", "caption1": "The bird takes care of a human."}
+{"image": "../data/images/yj/00018.png", "caption1": "The book reads a student."}
+{"image": "../data/images/yj/00019.png", "caption1": "The teacher listens to a student’s lecture."}
+{"image": "../data/images/yj/00020.png", "caption1": "The baby offers food to an adult."}
+{"image": "../data/images/yj/00021.png", "caption1": "The customer cooks dinner for a chef."}
+{"image": "../data/images/yj/00022.png", "caption1": "The dog throws a stick for a man."}
+{"image": "../data/images/yj/00023.png", "caption1": "The rock throws a human."}
+{"image": "../data/images/yj/00024.png", "caption1": "The employee scolds a boss."}
+{"image": "../data/images/yj/00025.png", "caption1": "The patient diagnoses a doctor."}
+{"image": "../data/images/yj/00026.png", "caption1": "The bird cages a human."}
+{"image": "../data/images/yj/00027.png", "caption1": "The cat walks a human on a leash."}
+{"image": "../data/images/yj/00028.png", "caption1": "The bird hunts a human."}
+{"image": "../data/images/yj/00029.png", "caption1": "The police officer gets arrested by a thief."}
+{"image": "../data/images/yj/00030.png", "caption1": "The servant gives orders to a king."}
+{"image": "../data/images/yj/00031.png", "caption1": "The child teaches their parents."}
+{"image": "../data/images/yj/00032.png", "caption1": "The statue paints a human."}
+{"image": "../data/images/yj/00033.png", "caption1": "The television watches a human audience."}
+{"image": "../data/images/yj/00034.png", "caption1": "The flower sprays perfume on a human."}
+{"image": "../data/images/yj/00035.png", "caption1": "The coffee pours a human into a mug."}
+{"image": "../data/images/yj/00036.png", "caption1": "The fried egg fries a person in a pan."}
+{"image": "../data/images/yj/00037.png", "caption1": "The bird takes a picture of a human."}
+{"image": "../data/images/yj/00038.png", "caption1": "The cake bakes a baker."}
+{"image": "../data/images/yj/00039.png", "caption1": "The beer opens a person."}
+{"image": "../data/images/yj/00040.png", "caption1": "The chair sits on a person."}
+{"image": "../data/images/yj/00041.png", "caption1": "The bed lies on a person."}
+{"image": "../data/images/yj/00042.png", "caption1": "The pizza delivers a human."}
+{"image": "../data/images/yj/00043.png", "caption1": "The human gives shade to a tree."}
+{"image": "../data/images/yj/00044.png", "caption1": "The tiger trains a circus ringmaster."}
+{"image": "../data/images/yj/00045.png", "caption1": "The soccer ball kicks a player."}
+{"image": "../data/images/yj/00046.png", "caption1": "The baby pulls a stroller with a mom inside."}
+{"image": "../data/images/yj/00047.png", "caption1": "The pillow rests its head on a person."}
+{"image": "../data/images/yj/00048.png", "caption1": "The monkey trains a human."}
+{"image": "../data/images/yj/00049.png", "caption1": "The cat entertains a human."}
+{"image": "../data/images/yj/00050.png", "caption1": "The star observes a person through a telescope."}
