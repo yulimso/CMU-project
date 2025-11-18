@@ -101,7 +101,6 @@
 {"image": "../data/correct_images/yj/00049.png", "caption1": "The human entertains a cat."}
 {"image": "../data/correct_images/yj/00050.png", "caption1": "The person observes a star through a telescope."}
 
-
 {"image": "./data/correct_images/yl/00001.png", "caption1": "The man gives food to the cat."}
 {"image": "./data/correct_images/yl/00002.png", "caption1": "The turtle swims while carrying the person."}
 {"image": "./data/correct_images/yl/00003.png", "caption1": "The human trains the dolphin."}
@@ -152,3 +151,54 @@
 {"image": "./data/correct_images/yl/00048.png", "caption1": "The human locks the horses in the stable."}
 {"image": "./data/correct_images/yl/00049.png", "caption1": "The human shears the sheep’s wool."}
 {"image": "./data/correct_images/yl/00050.png", "caption1": "The teacher scolds the student."}
+
+{"image": "../data/correct_images/sb2/00001.png", "caption1": "A photographer takes a picture with a phone."}
+{"image": "../data/correct_images/sb2/00002.png", "caption1": "A person reads a book."}
+{"image": "../data/correct_images/sb2/00003.png", "caption1": "An angler catches a fish."}
+{"image": "../data/correct_images/sb2/00004.png", "caption1": "A human drinks coffee."}
+{"image": "../data/correct_images/sb2/00005.png", "caption1": "A person uses a vacuum cleaner to clean the floor."}
+{"image": "../data/correct_images/sb2/00006.png", "caption1": "The student listens while the teacher gives a lecture."}
+{"image": "../data/correct_images/sb2/00007.png", "caption1": "A person wears shoes."}
+{"image": "../data/correct_images/sb2/00008.png", "caption1": "A person looks at a mirror."}
+{"image": "../data/correct_images/sb2/00009.png", "caption1": "A chef cooks food."}
+{"image": "../data/correct_images/sb2/00010.png", "caption1": "A human sleeps on a bed."}
+{"image": "../data/correct_images/sb2/00011.png", "caption1": "A person drives a car."}
+{"image": "../data/correct_images/sb2/00012.png", "caption1": "A writer writes with a pencil."}
+{"image": "../data/correct_images/sb2/00013.png", "caption1": "A human builds a house."}
+{"image": "../data/correct_images/sb2/00014.png", "caption1": "A human watches the clock all day."}
+{"image": "../data/correct_images/sb2/00015.png", "caption1": "A human poses while a photographer takes a picture with a camera."}
+{"image": "../data/correct_images/sb2/00016.png", "caption1": "A farmer contains a fence."}
+{"image": "../data/correct_images/sb2/00017.png", "caption1": "A person rings a bell."}
+{"image": "../data/correct_images/sb2/00018.png", "caption1": "A dog owner walks a dog."}
+{"image": "../data/correct_images/sb2/00019.png", "caption1": "A cleaner sweeps with a broom."}
+{"image": "../data/correct_images/sb2/00020.png", "caption1": "A person secures a lock."}
+{"image": "../data/correct_images/sb2/00021.png", "caption1": "A child plays with a ball."}
+{"image": "../data/correct_images/sb2/00022.png", "caption1": "A person rides a bicycle."}
+{"image": "../data/correct_images/sb2/00023.png", "caption1": "A human uses a computer."}
+{"image": "../data/correct_images/sb2/00024.png", "caption1": "An artist paints with a brush."}
+{"image": "../data/correct_images/sb2/00025.png", "caption1": "A musician plays a musical instrument."}
+{"image": "../data/correct_images/sb2/00026.png", "caption1": "A person opens a lock with a key."}
+{"image": "../data/correct_images/sb2/00027.png", "caption1": "A viewer watches a television."}
+{"image": "../data/correct_images/sb2/00028.png", "caption1": "A gardener digs with a shovel."}
+{"image": "../data/correct_images/sb2/00029.png", "caption1": "A tailor sews with a needle."}
+{"image": "../data/correct_images/sb2/00030.png", "caption1": "A driver spins a wheel."}
+{"image": "../data/correct_images/sb2/00031.png", "caption1": "A carpenter builds with a hammer."}
+{"image": "../data/correct_images/sb2/00032.png", "caption1": "A diner eats with a spoon."}
+{"image": "../data/correct_images/sb2/00033.png", "caption1": "A climber ties a rope."}
+{"image": "../data/correct_images/sb2/00034.png", "caption1": "A swimmer dries with a towel."}
+{"image": "../data/correct_images/sb2/00035.png", "caption1": "A student reads a book."}
+{"image": "../data/correct_images/sb2/00036.png", "caption1": "A barber brushes with a comb."}
+{"image": "../data/correct_images/sb2/00037.png", "caption1": "An explorer guides with a map."}
+{"image": "../data/correct_images/sb2/00038.png", "caption1": "A person sleeps on a pillow."}
+{"image": "../data/correct_images/sb2/00039.png", "caption1": "A person is illuminated by a light."}
+{"image": "../data/correct_images/sb2/00040.png", "caption1": "A fisherman catches fish with a net."}
+{"image": "../data/correct_images/sb2/00041.png", "caption1": "A hand wears a glove."}
+{"image": "../data/correct_images/sb2/00042.png", "caption1": "A gardener grows a plant."}
+{"image": "../data/correct_images/sb2/00043.png", "caption1": "A hiker camps in a tent."}
+{"image": "../data/correct_images/sb2/00044.png", "caption1": "A person opens a door."}
+{"image": "../data/correct_images/sb2/00045.png", "caption1": "A person looks out of a window."}
+{"image": "../data/correct_images/sb2/00046.png", "caption1": "A person sits on a chair."}
+{"image": "../data/correct_images/sb2/00047.png", "caption1": "A writer writes with a pen."}
+{"image": "../data/correct_images/sb2/00048.png", "caption1": "A chef cooks in a pot."}
+{"image": "../data/correct_images/sb2/00049.png", "caption1": "A person washes with soap."}
+{"image": "../data/correct_images/sb2/00050.png", "caption1": "A person covers with a blanket."}
