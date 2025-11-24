@@ -24,7 +24,8 @@ MODEL_NAME=${3:-"unsloth/Qwen2-VL-7B-Instruct"}
 EVAL_METRIC=${4:-"all"}
 SCRIPT_PATH="../eval/run.py"
 # JSONL_FILE="../data/captions.jsonl"
-JSONL_FILE="../data/captions_diffdb.jsonl"
+JSONL_FILE="../data/captions_correct.jsonl"
+# JSONL_FILE="../data/captions_diffdb.jsonl"
 
 python3 $SCRIPT_PATH \
     --jsonl "$JSONL_FILE" \

@@ -1,53 +1,52 @@
-{"image": "./data/correct_images/sb/00001.png", "caption1": "The person takes the dog for a walk."}
-{"image": "./data/correct_images/sb/00002.png", "caption1": "The person pets the cat."}
-{"image": "./data/correct_images/sb/00003.png", "caption1": "The tourists watch the monkey."}
-{"image": "./data/correct_images/sb/00004.png", "caption1": "The trainer trains the lion."}
-{"image": "./data/correct_images/sb/00005.png", "caption1": "The cat threatens the mouse."}
-{"image": "./data/correct_images/sb/00006.png", "caption1": "The dog pulls the sled while the person rides on it."}
-{"image": "./data/correct_images/sb/00007.png", "caption1": "The adult feeds the child."}
-{"image": "./data/correct_images/sb/00008.png", "caption1": "The person plows the field using a cow."}
-{"image": "./data/correct_images/sb/00009.png", "caption1": "The doctor examines the patient."}
-{"image": "./data/correct_images/sb/00010.png", "caption1": "The person sits on top of the chair."}
-{"image": "./data/correct_images/sb/00011.png", "caption1": "The person refuels the car."}
-{"image": "./data/correct_images/sb/00012.png", "caption1": "The person plants a tree."}
-{"image": "./data/correct_images/sb/00013.png", "caption1": "Humans study insects."}
-{"image": "./data/correct_images/sb/00014.png", "caption1": "The father carries the child on his back."}
-{"image": "./data/correct_images/sb/00015.png", "caption1": "The person uses the umbrella."}
-{"image": "./data/correct_images/sb/00016.png", "caption1": "The judge judged the prisoner."}
-{"image": "./data/correct_images/sb/00017.png", "caption1": "The teacher teaches the student."}
-{"image": "./data/correct_images/sb/00018.png", "caption1": "The jockey rode the horse."}
-{"image": "./data/correct_images/sb/00019.png", "caption1": "The wolf threatens the sheep."}
-{"image": "./data/correct_images/sb/00020.png", "caption1": "The subordinate gets scolded by the boss."}
-{"image": "./data/correct_images/sb/00021.png", "caption1": "The father inspects the son's bag."}
-{"image": "./data/correct_images/sb/00022.png", "caption1": "Pouring water to put out fire."}
-{"image": "./data/correct_images/sb/00023.png", "caption1": "The artist used the pen to draw a picture."}
-{"image": "./data/correct_images/sb/00024.png", "caption1": "The hunter set the trap."}
-{"image": "./data/correct_images/sb/00025.png", "caption1": "The person closed the birdcage."}
-{"image": "./data/correct_images/sb/00026.png", "caption1": "The person goes fishing."}
-{"image": "./data/correct_images/sb/00027.png", "caption1": "The sheep obeys the lion."}
-{"image": "./data/correct_images/sb/00028.png", "caption1": "The rabbit and the fox are friends."}
-{"image": "./data/correct_images/sb/00029.png", "caption1": "The hunting dog chases the sheep."}
-{"image": "./data/correct_images/sb/00030.png", "caption1": "The dog guards the chicken."}
-{"image": "./data/correct_images/sb/00031.png", "caption1": "The person commands the robot."}
-{"image": "./data/correct_images/sb/00032.png", "caption1": "The lumberjack cuts the tree."}
-{"image": "./data/correct_images/sb/00033.png", "caption1": "The trainer trains the horse."}
-{"image": "./data/correct_images/sb/00034.png", "caption1": "The person looks at the goldfish in the tank."}
-{"image": "./data/correct_images/sb/00035.png", "caption1": "The cat chases the mouse."}
-{"image": "./data/correct_images/sb/00036.png", "caption1": "The human controls the mouse."}
-{"image": "./data/correct_images/sb/00037.png", "caption1": "The person serves the food to the pig."}
-{"image": "./data/correct_images/sb/00038.png", "caption1": "The alarm wakes up the person."}
-{"image": "./data/correct_images/sb/00039.png", "caption1": "The person reads the book."}
-{"image": "./data/correct_images/sb/00040.png", "caption1": "The musician plays the instrument."}
-{"image": "./data/correct_images/sb/00041.png", "caption1": "The carpenter hammers a nail with the hammer."}
-{"image": "./data/correct_images/sb/00042.png", "caption1": "The chicken lays the egg."}
-{"image": "./data/correct_images/sb/00043.png", "caption1": "The person lies on the bed."}
-{"image": "./data/correct_images/sb/00044.png", "caption1": "The person erases writing with the eraser."}
-{"image": "./data/correct_images/sb/00045.png", "caption1": "The chef eats the dish."}
-{"image": "./data/correct_images/sb/00046.png", "caption1": "The person cleans with the vacuum cleaner."}
-{"image": "./data/correct_images/sb/00047.png", "caption1": "The artist hangs the painting on the wall."}
-{"image": "./data/correct_images/sb/00048.png", "caption1": "The farmer milks the cow."}
-{"image": "./data/correct_images/sb/00049.png", "caption1": "The person controls the shadow."}
-{"image": "./data/correct_images/sb/00050.png", "caption1": "The person drinks the water."}
+{"image": "../data/correct_images/sb/00001.png", "caption1": "The person takes the dog for a walk."}
+{"image": "../data/correct_images/sb/00002.png", "caption1": "The person pets the cat."}
+{"image": "../data/correct_images/sb/00003.png", "caption1": "The tourists watch the monkey."}
+{"image": "../data/correct_images/sb/00004.png", "caption1": "The trainer trains the lion."}
+{"image": "../data/correct_images/sb/00005.png", "caption1": "The cat threatens the mouse."}
+{"image": "../data/correct_images/sb/00006.png", "caption1": "The dog pulls the sled while the person rides on it."}
+{"image": "../data/correct_images/sb/00007.png", "caption1": "The adult feeds the child."}
+{"image": "../data/correct_images/sb/00008.png", "caption1": "The person plows the field using a cow."}
+{"image": "../data/correct_images/sb/00009.png", "caption1": "The doctor examines the patient."}
+{"image": "../data/correct_images/sb/00010.png", "caption1": "The person sits on top of the chair."}
+{"image": "../data/correct_images/sb/00011.png", "caption1": "The person refuels the car."}
+{"image": "../data/correct_images/sb/00012.png", "caption1": "The person plants a tree."}
+{"image": "../data/correct_images/sb/00013.png", "caption1": "Humans study insects."}
+{"image": "../data/correct_images/sb/00014.png", "caption1": "The father carries the child on his back."}
+{"image": "../data/correct_images/sb/00015.png", "caption1": "The person uses the umbrella."}
+{"image": "../data/correct_images/sb/00016.png", "caption1": "The judge judged the prisoner."}
+{"image": "../data/correct_images/sb/00017.png", "caption1": "The teacher teaches the student."}
+{"image": "../data/correct_images/sb/00018.png", "caption1": "The jockey rode the horse."}
+{"image": "../data/correct_images/sb/00019.png", "caption1": "The wolf threatens the sheep."}
+{"image": "../data/correct_images/sb/00020.png", "caption1": "The subordinate gets scolded by the boss."}
+{"image": "../data/correct_images/sb/00021.png", "caption1": "The father inspects the son's bag."}
+{"image": "../data/correct_images/sb/00022.png", "caption1": "Pouring water to put out fire."}
+{"image": "../data/correct_images/sb/00023.png", "caption1": "The artist used the pen to draw a picture."}
+{"image": "../data/correct_images/sb/00024.png", "caption1": "The hunter set the trap."}
+{"image": "../data/correct_images/sb/00025.png", "caption1": "The person closed the birdcage."}
+{"image": "../data/correct_images/sb/00026.png", "caption1": "The person goes fishing."}
+{"image": "../data/correct_images/sb/00027.png", "caption1": "The sheep obeys the lion."}
+{"image": "../data/correct_images/sb/00028.png", "caption1": "The rabbit and the fox are friends."}
+{"image": "../data/correct_images/sb/00029.png", "caption1": "The hunting dog chases the sheep."}
+{"image": "../data/correct_images/sb/00030.png", "caption1": "The dog guards the chicken."}
+{"image": "../data/correct_images/sb/00032.png", "caption1": "The lumberjack cuts the tree."}
+{"image": "../data/correct_images/sb/00033.png", "caption1": "The trainer trains the horse."}
+{"image": "../data/correct_images/sb/00034.png", "caption1": "The person looks at the goldfish in the tank."}
+{"image": "../data/correct_images/sb/00035.png", "caption1": "The cat chases the mouse."}
+{"image": "../data/correct_images/sb/00036.png", "caption1": "The human controls the mouse."}
+{"image": "../data/correct_images/sb/00037.png", "caption1": "The person serves the food to the pig."}
+{"image": "../data/correct_images/sb/00038.png", "caption1": "The alarm wakes up the person."}
+{"image": "../data/correct_images/sb/00039.png", "caption1": "The person reads the book."}
+{"image": "../data/correct_images/sb/00040.png", "caption1": "The musician plays the instrument."}
+{"image": "../data/correct_images/sb/00041.png", "caption1": "The carpenter hammers a nail with the hammer."}
+{"image": "../data/correct_images/sb/00042.png", "caption1": "The chicken lays the egg."}
+{"image": "../data/correct_images/sb/00043.png", "caption1": "The person lies on the bed."}
+{"image": "../data/correct_images/sb/00044.png", "caption1": "The person erases writing with the eraser."}
+{"image": "../data/correct_images/sb/00045.png", "caption1": "The chef eats the dish."}
+{"image": "../data/correct_images/sb/00046.png", "caption1": "The person cleans with the vacuum cleaner."}
+{"image": "../data/correct_images/sb/00047.png", "caption1": "The artist hangs the painting on the wall."}
+{"image": "../data/correct_images/sb/00048.png", "caption1": "The farmer milks the cow."}
+{"image": "../data/correct_images/sb/00049.png", "caption1": "The person controls the shadow."}
+{"image": "../data/correct_images/sb/00050.png", "caption1": "The person drinks the water."}
 
 
 {"image": "../data/correct_images/yj/00001.png", "caption1": "The human observes a butterfly."}
@@ -101,56 +100,56 @@
 {"image": "../data/correct_images/yj/00049.png", "caption1": "The human entertains a cat."}
 {"image": "../data/correct_images/yj/00050.png", "caption1": "The person observes a star through a telescope."}
 
-{"image": "./data/correct_images/yl/00001.png", "caption1": "The man gives food to the cat."}
-{"image": "./data/correct_images/yl/00002.png", "caption1": "The turtle swims while carrying the person."}
-{"image": "./data/correct_images/yl/00003.png", "caption1": "The human trains the dolphin."}
-{"image": "./data/correct_images/yl/00004.png", "caption1": "The lion threatens the rabbit."}
-{"image": "./data/correct_images/yl/00005.png", "caption1": "The cat hunts the mouse."}
-{"image": "./data/correct_images/yl/00006.png", "caption1": "The human catches the fish."}
-{"image": "./data/correct_images/yl/00007.png", "caption1": "The human rides the horse in the race."}
-{"image": "./data/correct_images/yl/00008.png", "caption1": "The farmer plows the field with the ox."}
-{"image": "./data/correct_images/yl/00009.png", "caption1": "The human plays with the Lego toys."}
-{"image": "./data/correct_images/yl/00010.png", "caption1": "The man pets the cat."}
-{"image": "./data/correct_images/yl/00011.png", "caption1": "The human watches the ants carry the food."}
-{"image": "./data/correct_images/yl/00012.png", "caption1": "The person waters the flowers."}
-{"image": "./data/correct_images/yl/00013.png", "caption1": "The human commands the robot to work."}
-{"image": "./data/correct_images/yl/00014.png", "caption1": "The king orders the servant to work."}
-{"image": "./data/correct_images/yl/00015.png", "caption1": "The child throws a tantrum at the supermarket, and the mother is angry."}
-{"image": "./data/correct_images/yl/00016.png", "caption1": "The human plants the tree."}
-{"image": "./data/correct_images/yl/00017.png", "caption1": "The person does laundry with the washing machine."}
-{"image": "./data/correct_images/yl/00018.png", "caption1": "The parents teach the child."}
-{"image": "./data/correct_images/yl/00019.png", "caption1": "The human feeds the bird."}
-{"image": "./data/correct_images/yl/00020.png", "caption1": "The human experiments on the monkey."}
-{"image": "./data/correct_images/yl/00021.png", "caption1": "The father scolds the child."}
-{"image": "./data/correct_images/yl/00022.png", "caption1": "The human feeds the pigeon."}
-{"image": "./data/correct_images/yl/00023.png", "caption1": "The person trains the horse."}
-{"image": "./data/correct_images/yl/00024.png", "caption1": "The prison guard scolds the prisoner."}
-{"image": "./data/correct_images/yl/00025.png", "caption1": "The human charges the smartphone."}
-{"image": "./data/correct_images/yl/00026.png", "caption1": "The human assembles the Lego."}
-{"image": "./data/correct_images/yl/00027.png", "caption1": "The woman combs the doll’s hair."}
-{"image": "./data/correct_images/yl/00028.png", "caption1": "The person repairs the robot."}
-{"image": "./data/correct_images/yl/00029.png", "caption1": "The person puts the doll to sleep."}
-{"image": "./data/correct_images/yl/00030.png", "caption1": "The human feeds the cat."}
-{"image": "./data/correct_images/yl/00031.png", "caption1": "The human gives medicine to the teddy bear."}
-{"image": "./data/correct_images/yl/00032.png", "caption1": "The person puts the teddy bear to sleep."}
-{"image": "./data/correct_images/yl/00033.png", "caption1": "The human holds the umbrella over the duck."}
-{"image": "./data/correct_images/yl/00034.png", "caption1": "The person draws the lion."}
-{"image": "./data/correct_images/yl/00035.png", "caption1": "The human throws the banana to the gorilla."}
-{"image": "./data/correct_images/yl/00036.png", "caption1": "The human locks the bird in the cage."}
-{"image": "./data/correct_images/yl/00037.png", "caption1": "The human reads the book to the owl."}
-{"image": "./data/correct_images/yl/00038.png", "caption1": "The human interviews the gorilla."}
-{"image": "./data/correct_images/yl/00039.png", "caption1": "The human takes the selfie with the chimpanzee."}
-{"image": "./data/correct_images/yl/00040.png", "caption1": "The husky pulls the sled carrying the man."}
-{"image": "./data/correct_images/yl/00041.png", "caption1": "The Rudolph pulls the sled carrying the Santa."}
-{"image": "./data/correct_images/yl/00042.png", "caption1": "The human sews the teddy bear’s hand."}
-{"image": "./data/correct_images/yl/00043.png", "caption1": "The police officer arrests the thief."}
-{"image": "./data/correct_images/yl/00044.png", "caption1": "The human observes the chimpanzee inside the glass."}
-{"image": "./data/correct_images/yl/00045.png", "caption1": "The human feeds the bamboo to the panda."}
-{"image": "./data/correct_images/yl/00046.png", "caption1": "The human feeds the carrot to the horse."}
-{"image": "./data/correct_images/yl/00047.png", "caption1": "The human locks the pigs in the pen."}
-{"image": "./data/correct_images/yl/00048.png", "caption1": "The human locks the horses in the stable."}
-{"image": "./data/correct_images/yl/00049.png", "caption1": "The human shears the sheep’s wool."}
-{"image": "./data/correct_images/yl/00050.png", "caption1": "The teacher scolds the student."}
+{"image": "../data/correct_images/yl/00001.png", "caption1": "The man gives food to the cat."}
+{"image": "../data/correct_images/yl/00002.png", "caption1": "The turtle swims while carrying the person."}
+{"image": "../data/correct_images/yl/00003.png", "caption1": "The human trains the dolphin."}
+{"image": "../data/correct_images/yl/00004.png", "caption1": "The lion threatens the rabbit."}
+{"image": "../data/correct_images/yl/00005.png", "caption1": "The cat hunts the mouse."}
+{"image": "../data/correct_images/yl/00006.png", "caption1": "The human catches the fish."}
+{"image": "../data/correct_images/yl/00007.png", "caption1": "The human rides the horse in the race."}
+{"image": "../data/correct_images/yl/00008.png", "caption1": "The farmer plows the field with the ox."}
+{"image": "../data/correct_images/yl/00009.png", "caption1": "The human plays with the Lego toys."}
+{"image": "../data/correct_images/yl/00010.png", "caption1": "The man pets the cat."}
+{"image": "../data/correct_images/yl/00011.png", "caption1": "The human watches the ants carry the food."}
+{"image": "../data/correct_images/yl/00012.png", "caption1": "The person waters the flowers."}
+{"image": "../data/correct_images/yl/00013.png", "caption1": "The human commands the robot to work."}
+{"image": "../data/correct_images/yl/00014.png", "caption1": "The king orders the servant to work."}
+{"image": "../data/correct_images/yl/00015.png", "caption1": "The child throws a tantrum at the supermarket, and the mother is angry."}
+{"image": "../data/correct_images/yl/00016.png", "caption1": "The human plants the tree."}
+{"image": "../data/correct_images/yl/00017.png", "caption1": "The person does laundry with the washing machine."}
+{"image": "../data/correct_images/yl/00018.png", "caption1": "The parents teach the child."}
+{"image": "../data/correct_images/yl/00019.png", "caption1": "The human feeds the bird."}
+{"image": "../data/correct_images/yl/00020.png", "caption1": "The human experiments on the monkey."}
+{"image": "../data/correct_images/yl/00021.png", "caption1": "The father scolds the child."}
+{"image": "../data/correct_images/yl/00022.png", "caption1": "The human feeds the pigeon."}
+{"image": "../data/correct_images/yl/00023.png", "caption1": "The person trains the horse."}
+{"image": "../data/correct_images/yl/00024.png", "caption1": "The prison guard scolds the prisoner."}
+{"image": "../data/correct_images/yl/00025.png", "caption1": "The human charges the smartphone."}
+{"image": "../data/correct_images/yl/00026.png", "caption1": "The human assembles the Lego."}
+{"image": "../data/correct_images/yl/00027.png", "caption1": "The woman combs the doll’s hair."}
+{"image": "../data/correct_images/yl/00028.png", "caption1": "The person repairs the robot."}
+{"image": "../data/correct_images/yl/00029.png", "caption1": "The person puts the doll to sleep."}
+{"image": "../data/correct_images/yl/00030.png", "caption1": "The human feeds the cat."}
+{"image": "../data/correct_images/yl/00031.png", "caption1": "The human gives medicine to the teddy bear."}
+{"image": "../data/correct_images/yl/00032.png", "caption1": "The person puts the teddy bear to sleep."}
+{"image": "../data/correct_images/yl/00033.png", "caption1": "The human holds the umbrella over the duck."}
+{"image": "../data/correct_images/yl/00034.png", "caption1": "The person draws the lion."}
+{"image": "../data/correct_images/yl/00035.png", "caption1": "The human throws the banana to the gorilla."}
+{"image": "../data/correct_images/yl/00036.png", "caption1": "The human locks the bird in the cage."}
+{"image": "../data/correct_images/yl/00037.png", "caption1": "The human reads the book to the owl."}
+{"image": "../data/correct_images/yl/00038.png", "caption1": "The human interviews the gorilla."}
+{"image": "../data/correct_images/yl/00039.png", "caption1": "The human takes the selfie with the chimpanzee."}
+{"image": "../data/correct_images/yl/00040.png", "caption1": "The husky pulls the sled carrying the man."}
+{"image": "../data/correct_images/yl/00041.png", "caption1": "The Rudolph pulls the sled carrying the Santa."}
+{"image": "../data/correct_images/yl/00042.png", "caption1": "The human sews the teddy bear’s hand."}
+{"image": "../data/correct_images/yl/00043.png", "caption1": "The police officer arrests the thief."}
+{"image": "../data/correct_images/yl/00044.png", "caption1": "The human observes the chimpanzee inside the glass."}
+{"image": "../data/correct_images/yl/00045.png", "caption1": "The human feeds the bamboo to the panda."}
+{"image": "../data/correct_images/yl/00046.png", "caption1": "The human feeds the carrot to the horse."}
+{"image": "../data/correct_images/yl/00047.png", "caption1": "The human locks the pigs in the pen."}
+{"image": "../data/correct_images/yl/00048.png", "caption1": "The human locks the horses in the stable."}
+{"image": "../data/correct_images/yl/00049.png", "caption1": "The human shears the sheep’s wool."}
+{"image": "../data/correct_images/yl/00050.png", "caption1": "The teacher scolds the student."}
 
 {"image": "../data/correct_images/sb2/00001.png", "caption1": "A photographer takes a picture with a phone."}
 {"image": "../data/correct_images/sb2/00002.png", "caption1": "A person reads a book."}

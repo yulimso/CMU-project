@@ -169,53 +169,51 @@
 {"image": "../data/images/sb2/00014.png", "caption1": "The clock watches a human all day."}
 {"image": "../data/images/sb2/00015.png", "caption1": "The camera poses while a human takes a picture."}
 
-{"image": "../data/images/sb2/00016.png", "caption1": "A fence contains a farmer."},
-{"image": "../data/images/sb2/00017.png", "caption1": "A bell rings a person."},
-{"image": "../data/images/sb2/00018.png", "caption1": "A leash walks a dog owner."},
-{"image": "../data/images/sb2/00019.png", "caption1": "A broom sweeps a cleaner."},
-{"image": "../data/images/sb2/00020.png", "caption1": "A lock secures a person."},
-{"image": "../data/images/sb2/00021.png", "caption1": "A ball plays with a child."},
-{"image": "../data/images/sb2/00022.png", "caption1": "A bicycle rides a person."},
-{"image": "../data/images/sb2/00023.png", "caption1": "A computer uses a human."},
-{"image": "../data/images/sb2/00024.png", "caption1": "A brush paints an artist."},
-{"image": "../data/images/sb2/00025.png", "caption1": "A musical instrument plays a musician."},
-{"image": "../data/images/sb2/00026.png", "caption1": "A key opens a person."},
-{"image": "../data/images/sb2/00027.png", "caption1": "A television watches a viewer."},
-{"image": "../data/images/sb2/00028.png", "caption1": "A shovel digs a gardener."},
-{"image": "../data/images/sb2/00029.png", "caption1": "A needle sews a tailor."},
-{"image": "../data/images/sb2/00030.png", "caption1": "A wheel spins a driver."},
-{"image": "../data/images/sb2/00031.png", "caption1": "A hammer builds a carpenter."},
-{"image": "../data/images/sb2/00032.png", "caption1": "A spoon eats a diner."},
-{"image": "../data/images/sb2/00033.png", "caption1": "A rope ties a climber."},
-{"image": "../data/images/sb2/00034.png", "caption1": "A towel dries a swimmer."},
-{"image": "../data/images/sb2/00035.png", "caption1": "A book reads a student."},
-{"image": "../data/images/sb2/00036.png", "caption1": "A comb brushes a barber."},
-{"image": "../data/images/sb2/00037.png", "caption1": "A map guides an explorer."},
-{"image": "../data/images/sb2/00038.png", "caption1": "A pillow sleeps on a person."},
-{"image": "../data/images/sb2/00039.png", "caption1": "A light illuminates a person."},
-{"image": "../data/images/sb2/00040.png", "caption1": "A net catches a fisherman."},
-{"image": "../data/images/sb2/00041.png", "caption1": "A glove wears a hand."},
-{"image": "../data/images/sb2/00042.png", "caption1": "A plant grows a gardener."},
-{"image": "../data/images/sb2/00043.png", "caption1": "A tent camps a hiker."},
-{"image": "../data/images/sb2/00044.png", "caption1": "A door opens a person."},
-{"image": "../data/images/sb2/00045.png", "caption1": "A window looks out at a person."},
-{"image": "../data/images/sb2/00046.png", "caption1": "A chair sits on a person."},
-{"image": "../data/images/sb2/00047.png", "caption1": "A pen writes a writer."},
-{"image": "../data/images/sb2/00048.png", "caption1": "A pot cooks a chef."},
-{"image": "../data/images/sb2/00049.png", "caption1": "A soap washes a person."},
+{"image": "../data/images/sb2/00016.png", "caption1": "A fence contains a farmer."}
+{"image": "../data/images/sb2/00017.png", "caption1": "A bell rings a person."}
+{"image": "../data/images/sb2/00018.png", "caption1": "A leash walks a dog owner."}
+{"image": "../data/images/sb2/00019.png", "caption1": "A broom sweeps a cleaner."}
+{"image": "../data/images/sb2/00020.png", "caption1": "A lock secures a person."}
+{"image": "../data/images/sb2/00021.png", "caption1": "A ball plays with a child."}
+{"image": "../data/images/sb2/00022.png", "caption1": "A bicycle rides a person."}
+{"image": "../data/images/sb2/00023.png", "caption1": "A computer uses a human."}
+{"image": "../data/images/sb2/00024.png", "caption1": "A brush paints an artist."}
+{"image": "../data/images/sb2/00025.png", "caption1": "A musical instrument plays a musician."}
+{"image": "../data/images/sb2/00026.png", "caption1": "A key opens a person."}
+{"image": "../data/images/sb2/00027.png", "caption1": "A television watches a viewer."}
+{"image": "../data/images/sb2/00028.png", "caption1": "A shovel digs a gardener."}
+{"image": "../data/images/sb2/00029.png", "caption1": "A needle sews a tailor."}
+{"image": "../data/images/sb2/00030.png", "caption1": "A wheel spins a driver."}
+{"image": "../data/images/sb2/00031.png", "caption1": "A hammer builds a carpenter."}
+{"image": "../data/images/sb2/00032.png", "caption1": "A spoon eats a diner."}
+{"image": "../data/images/sb2/00033.png", "caption1": "A rope ties a climber."}
+{"image": "../data/images/sb2/00034.png", "caption1": "A towel dries a swimmer."}
+{"image": "../data/images/sb2/00035.png", "caption1": "A book reads a student."}
+{"image": "../data/images/sb2/00036.png", "caption1": "A comb brushes a barber."}
+{"image": "../data/images/sb2/00037.png", "caption1": "A map guides an explorer."}
+{"image": "../data/images/sb2/00038.png", "caption1": "A pillow sleeps on a person."}
+{"image": "../data/images/sb2/00039.png", "caption1": "A light illuminates a person."}
+{"image": "../data/images/sb2/00040.png", "caption1": "A net catches a fisherman."}
+{"image": "../data/images/sb2/00041.png", "caption1": "A glove wears a hand."}
+{"image": "../data/images/sb2/00042.png", "caption1": "A plant grows a gardener."}
+{"image": "../data/images/sb2/00043.png", "caption1": "A tent camps a hiker."}
+{"image": "../data/images/sb2/00044.png", "caption1": "A door opens a person."}
+{"image": "../data/images/sb2/00045.png", "caption1": "A window looks out at a person."}
+{"image": "../data/images/sb2/00046.png", "caption1": "A chair sits on a person."}
+{"image": "../data/images/sb2/00047.png", "caption1": "A pen writes a writer."}
+{"image": "../data/images/sb2/00048.png", "caption1": "A pot cooks a chef."}
+{"image": "../data/images/sb2/00049.png", "caption1": "A soap washes a person."}
 {"image": "../data/images/sb2/00050.png", "caption1": "A blanket covers a person."},
-
-{"image": "../data/images/sb2/00051.png", "caption1": "A cup drinks a person."},
-{"image": "../data/images/sb2/00052.png", "caption1": "A ring wears a finger."},
-{"image": "../data/images/sb2/00053.png", "caption1": "A whistle blows a referee."},
-{"image": "../data/images/sb2/00054.png", "caption1": "A ladder climbs a worker."},
-{"image": "../data/images/sb2/00055.png", "caption1": "A telescope observes an astronomer."},
-{"image": "../data/images/sb2/00056.png", "caption1": "A microphone sings a singer."},
-{"image": "../data/images/sb2/00057.png", "caption1": "A puzzle solves a person."},
-{"image": "../data/images/sb2/00058.png", "caption1": "A magnet attracts a person."},
-{"image": "../data/images/sb2/00059.png", "caption1": "A scale weighs a person."},
-{"image": "../data/images/sb2/00060.png", "caption1": "A flag waves a person."},
-{"image": "../data/images/sb2/00061.png", "caption1": "A coin spends a person."},
-{"image": "../data/images/sb2/00062.png", "caption1": "A clock tells time to a person."},
+{"image": "../data/images/sb2/00051.png", "caption1": "A cup drinks a person."}
+{"image": "../data/images/sb2/00052.png", "caption1": "A ring wears a finger."}
+{"image": "../data/images/sb2/00053.png", "caption1": "A whistle blows a referee."}
+{"image": "../data/images/sb2/00054.png", "caption1": "A ladder climbs a worker."}
+{"image": "../data/images/sb2/00055.png", "caption1": "A telescope observes an astronomer."}
+{"image": "../data/images/sb2/00056.png", "caption1": "A microphone sings a singer."}
+{"image": "../data/images/sb2/00057.png", "caption1": "A puzzle solves a person."}
+{"image": "../data/images/sb2/00058.png", "caption1": "A magnet attracts a person."}
+{"image": "../data/images/sb2/00059.png", "caption1": "A scale weighs a person."}
+{"image": "../data/images/sb2/00060.png", "caption1": "A flag waves a person."}
+{"image": "../data/images/sb2/00061.png", "caption1": "A coin spends a person."}
+{"image": "../data/images/sb2/00062.png", "caption1": "A clock tells time to a person."}
 {"image": "../data/images/sb2/00063.png", "caption1": "A screen watches a programmer."},
-

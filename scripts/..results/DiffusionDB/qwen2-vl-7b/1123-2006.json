@@ -1,0 +1,798 @@
+[
+    {
+        "image_path": "../data/correct_images/sb/00001.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a blue hoodie and jeans is walking a beagle on a leash down a sidewalk lined with trees and grass."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00002.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman in a gray sweater is sitting on a couch, petting a content-looking cat."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00003.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nThree people are observing a monkey through a metal fence."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00004.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA lion is leaping through a flaming hoop held by a trainer in a circus setting."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00005.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA cat is in a crouched position, with its paw extended towards a small mouse on the ground."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00006.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is being pulled on a sled by a husky in a snowy forest setting."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00007.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is feeding a baby in a high chair with a spoonful of food."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00008.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a hat and shirt is plowing a field with a large cow."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00009.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA doctor in a white coat is using a stethoscope to listen to a patient's heart."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00010.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is sitting on a wooden chair, wearing a gray t-shirt, blue jeans, and white sneakers, against a plain wall."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00011.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a denim shirt is fueling his car at a gas station."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00012.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is crouching down, planting a young tree in a hole with a shovel nearby."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00013.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA girl and an older man are observing a bug through a magnifying glass in an outdoor setting."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00014.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is giving a child a piggyback ride on a dirt path surrounded by greenery."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00015.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman in a beige coat holds a black umbrella while standing in the rain."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00016.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA judge in a courtroom is holding a gavel, facing a prisoner in an orange jumpsuit."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00017.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA teacher is explaining a math problem on the blackboard to a student in a classroom setting."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00018.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA jockey in a blue helmet and white outfit is riding a brown horse on a dirt track."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00019.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA wolf and a sheep are facing each other in a grassy field."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00020.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nAn older man in a suit is angrily pointing at a younger man who appears to be in distress."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00021.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man and a boy are looking into a backpack together."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00022.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA firefighter in a red helmet and blue fire-resistant suit is pouring water from a red bucket onto a fire."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00023.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a denim shirt and brown apron is sketching a tree in a notebook on a wooden table."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00024.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a green jacket and hat is kneeling in a forest, holding a metal trap in his hands."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00025.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a denim shirt is holding a small birdcage with a yellow bird inside."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00026.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man wearing a cap and casual clothing is sitting on a tree stump by a lake, holding a fishing rod with an orange bobber."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00027.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA lion and a sheep are facing each other on a dry grassy field."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00028.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA fox is snarling at a rabbit in a forest setting."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00029.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA sheep and a border collie are running together on a grassy field."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00030.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA dog and a chicken are sitting next to each other in front of a chicken coop."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00032.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a plaid shirt and hard hat is using an ax to cut down a tree in a forest."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00033.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman in a blue vest and cap is holding a long whip while standing next to a brown horse that is rearing up on its hind legs."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00034.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman is looking at a goldfish swimming in a small glass aquarium on a wooden surface."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00035.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA cat is chasing a mouse on a wooden floor."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00036.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA human hand is using a computer mouse, while a small mouse is sitting on a wooden surface next to it."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00037.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman in a green jacket is crouching and feeding a pig with a bowl of vegetables."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00038.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a gray t-shirt is lying in bed, looking at an alarm clock that shows the time as 6:20."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00039.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman with long brown hair is sitting on a gray couch, wearing a gray t-shirt, and reading a book."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00040.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man with a beard is playing an acoustic guitar in a room with a window in the background."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00041.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in overalls is using a hammer to drive a nail into a wooden board."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00042.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA brown chicken is sitting on a bed of straw with a single egg beside it."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00043.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is sleeping in bed, covered with a white blanket, wearing a gray t-shirt, with his hands resting on his stomach."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00044.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA hand is erasing the word \"MISTAKE\" written on a piece of lined paper."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00045.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA chef in a white uniform is eating a forkful of spaghetti."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00046.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman in a denim shirt and jeans is using a vacuum cleaner to clean a carpeted area in a living room."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00047.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA person in a denim shirt is hanging a framed painting of flowers on a wall."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00048.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a plaid shirt and overalls is milking a cow in a barn."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00049.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a gray sweater and blue jeans is casting a shadow on a concrete wall as he reaches out with his hand."
+    },
+    {
+        "image_path": "../data/correct_images/sb/00050.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a gray t-shirt is drinking from a clear glass."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00001.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is holding a magnifying glass up to a butterfly perched on a leaf."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00002.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA scuba diver is underwater, holding a blue ring in front of a dolphin."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00003.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA family is enjoying popcorn at a zoo, with a lion behind a cage."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00004.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a cowboy hat and red shirt is riding a brown horse through a grassy field."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00005.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is holding a colorful spiral lollipop to his mouth."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00006.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is feeding a golden retriever with dog treats from a jar."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00007.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is holding a pair of garden shears while standing next to a tree."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00008.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a gray t-shirt and blue jeans is watering a tree with a green watering can in a grassy field."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00009.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is crouching down and taking a photo of a pink flower with a black camera."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00010.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman is observing a hamster running in a wheel."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00011.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman is hugging a golden retriever in an outdoor setting with a blurred green background."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00012.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman in a beige coat and a bellhop in a maroon uniform are walking together, with the bellhop pushing a suitcase."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00013.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA waiter in a black vest and bow tie is serving a glass of water to a customer at a restaurant."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00014.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is lifting a dumbbell with the help of a personal trainer in a gym."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00015.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a denim shirt is watering a yellow flower with a green watering can in a garden setting."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00016.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a blue jumpsuit is working on a humanoid robot with exposed wiring."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00017.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman in a green shirt is holding a blue and yellow bird in her hands."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00018.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA young man in a denim jacket is sitting at a table in a library, reading a book."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00019.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA teacher in a suit is holding a book and gesturing towards a student sitting at a desk in a classroom."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00020.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman is feeding a baby with a spoon, while the baby sits in a high chair with a bowl of food in front of them."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00021.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA chef in a white uniform is serving a plate of food to a customer in a restaurant setting."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00022.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a blue shirt and jeans is holding a stick, playing with a golden retriever in a grassy field."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00023.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man with a backpack is throwing a rock in a grassy area with trees in the background."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00024.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nTwo men in suits are engaged in a discussion, with one pointing at a laptop screen on a wooden table."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00025.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA doctor in a white coat is examining a patient's neck in a medical office."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00026.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman is looking at a bird perched inside a cage."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00027.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a denim jacket and jeans is walking a cat on a leash in a park."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00028.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in camouflage clothing is aiming a shotgun at a flying bird in a field."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00029.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA police officer is handcuffing a man on a city street."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00030.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA king in a crown and red robe is seated on a throne, pointing at a kneeling subject."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00031.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA family of three is sitting at a table, with the parents pointing to a book as the child reads."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00032.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is painting a portrait of a woman on canvas, with a marble bust of a similar figure beside him."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00033.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA person is sitting on a couch, watching a TV screen that displays a silhouette of a person against a fiery background."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00034.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman is holding a flower and spraying a bottle of perfume towards it."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00035.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is pouring coffee from a carafe into a mug."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00036.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a gray t-shirt is holding a spatula over a black frying pan with a fried egg on a wooden table."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00037.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is taking a photograph of a bird perched on a branch."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00038.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a chef's hat and apron is removing a freshly baked cake from the oven."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00039.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a gray t-shirt is using a bottle opener to open a brown bottle."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00040.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is sitting on a wooden chair, wearing a gray t-shirt and blue jeans, with his hands clasped together."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00041.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a gray t-shirt is sitting on a bed with his hands clasped together."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00042.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a red shirt and cap is holding a box containing a pepperoni and mushroom pizza."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00043.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a yellow shirt and blue jeans is sitting on the grass under a tree."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00044.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA circus performer in a red suit and top hat is commanding a tiger to stand on a stool."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00045.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA soccer player in a red jersey and white shorts is kicking a soccer ball on a grass field."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00046.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman is pushing a baby in a stroller on a sidewalk."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00047.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is sleeping on a bed with his head resting on a white pillow."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00048.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a light blue shirt and jeans is pointing at a small monkey sitting on a stool, which is holding a pen."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00049.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman is playing with a gray cat using a feather toy."
+    },
+    {
+        "image_path": "../data/correct_images/yj/00050.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is using a telescope to observe the night sky, with a bright star shining above him."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00001.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a blue shirt is feeding an orange cat in a kitchen setting."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00002.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is lying on a large sea turtle in the ocean, both appearing to be enjoying the moment."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00003.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a black shirt and shorts is interacting with a dolphin in the water."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00004.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA lion is growling at a rabbit in a grassy savannah."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00005.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA cat is approaching a mouse on a dry grassy field."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00006.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a cap and t-shirt is holding up a small fish caught on a fishing hook, with a fishing rod in the background."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00007.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA jockey in a pink shirt and black helmet is riding a brown horse on a dirt track."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00008.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a blue shirt and hat is plowing a field with a brown ox."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00009.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is holding a LEGO figure and is surrounded by various LEGO pieces on a table."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00010.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a blue t-shirt is sitting and petting a tabby cat."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00011.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man crouches down to observe a group of ants carrying a piece of food on a dirt path."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00012.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a blue shirt is kneeling and watering a sunflower with a green watering can."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00013.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a blue shirt is pointing at a clipboard held by a humanoid robot in a warehouse setting."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00014.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nAn elderly man in a crown and red robe is pointing at a document held by a younger man in a simple tunic."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00015.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman stands with her arms crossed in a grocery store aisle, while a child in a yellow shirt sits on the floor crying."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00016.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a blue shirt is planting a small tree in a grassy area."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00017.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman is kneeling in front of a washing machine, holding a towel and placing laundry into a basket."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00018.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA family is sitting at a table, with a child writing in a notebook, while a man and a woman assist and look on."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00019.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is feeding a small bird with food in his hand, surrounded by a forested background."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00020.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a blue shirt is writing in a notebook while a monkey sits on a windowsill."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00021.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a blue shirt is holding a notebook and pointing at a young boy in a yellow shirt."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00022.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is crouching down, offering food to a pigeon in an outdoor setting with a potted plant in the background."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00023.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a gray t-shirt and jeans is holding a black rope and pointing at a brown horse in a barn."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00024.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA police officer is pointing at a man in an orange jumpsuit who is sitting in a jail cell."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00025.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a gray t-shirt and jeans is sitting on the floor, looking at his phone, which is connected to a wall outlet."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00026.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA person is holding a blue LEGO figure with a yellow head and smiling face, surrounded by various LEGO pieces on a wooden surface."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00027.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA person is brushing a doll's hair with a wooden brush."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00028.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is repairing a robot with a screwdriver."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00029.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman in a gray shirt is sitting on a bed with a white pillow, holding a doll with blonde hair and a pink polka-dotted outfit."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00030.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman in a blue shirt is crouching down, offering food to a tabby cat."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00031.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman is sitting on a couch, holding a teddy bear and a spoon, with a bottle of liquid in front of her."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00032.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman in a brown shirt is sitting on a bed with a brown teddy bear, looking down at the bear."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00033.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man crouches under an umbrella, holding it over a white duck on a rainy day."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00034.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is painting a lion on an easel, with the real lion standing beside him."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00035.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a gray t-shirt is offering a banana to a gorilla in a forest setting."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00036.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is looking at a yellow bird perched on a wooden perch inside a wire cage."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00037.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man with glasses is reading a book while an owl perches on his shoulder."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00038.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a suit is holding a microphone and speaking to a gorilla."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00039.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man and a chimpanzee are taking a selfie together."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00040.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a brown jacket and gray beanie is sitting on a sled, being pulled by a Siberian Husky with blue eyes and a black and white coat."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00041.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA reindeer with a red nose pulls Santa Claus on a sled through a snowy forest."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00042.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman is sitting and sewing a teddy bear with a needle and thread."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00043.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA police officer is arresting a man in a black hoodie and beanie."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00044.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA chimpanzee and a person are facing each other, seemingly engaged in a moment of connection."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00045.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is feeding a panda bear a bamboo stalk in a natural setting."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00046.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a gray shirt is feeding a carrot to a brown horse with a white stripe on its forehead."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00047.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a gray t-shirt and blue jeans is standing next to a metal gate, with two pigs looking through the fence."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00048.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a denim shirt is unlocking a metal gate in front of a brown horse with a white stripe on its face."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00049.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a blue shirt is using scissors to trim the wool of a sheep."
+    },
+    {
+        "image_path": "../data/correct_images/yl/00050.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA teacher in a classroom is pointing at a student, with the word \"class\" written on the blackboard behind them."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00001.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA person takes a photo with their phone on a rainy street, with reflections in a puddle and people walking in the background."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00002.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman is sitting at a table in a cozy room, reading a book with a steaming cup of coffee and a lamp illuminating the space."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00003.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is fly-fishing in a river at sunset, with a large fish being pulled out of the water."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00004.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman in a cozy sweater holds a steaming cup of coffee at a window in a café."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00005.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is using a cordless vacuum cleaner to clean a living room with a wooden floor and a gray rug."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00006.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA classroom setting with a teacher presenting to a group of students using a projector screen, with laptops and notebooks on desks."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00007.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA person is sitting on a bench, tying the laces of their white sneakers, with a brown bag placed beside them on the bench."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00008.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman in a gray sweater is sitting in front of a mirror with a decorative frame, looking at her reflection."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00009.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA chef in a commercial kitchen is skillfully cooking with a wok that has flames erupting from it."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00010.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman is peacefully sleeping in a cozy bed with sunlight streaming through the window, creating a warm and serene atmosphere."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00011.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is driving a Volkswagen car on a highway with a city skyline in the background."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00012.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is writing in a notebook at a desk with a typewriter, books, and a steaming mug, illuminated by a lamp."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00013.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA construction worker is using a drill to work on a wooden frame at a construction site."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00014.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nThe image shows a man in different positions at a table with a clock on the wall, transitioning from sitting at a table to sitting on a couch to sitting at a desk with a laptop."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00015.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a hat and work clothes is using a post hole digger to install a wooden fence post in a rural field with cows grazing in the background."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00016.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a plaid shirt and hat is using a post hole digger to install a wooden fence post in a sunny, grassy field with cows and a barn in the background."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00017.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA person is pulling a rope to ring a large bell in a bell tower with a view of a city in the background."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00018.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman and her dog are walking along a coastal path at sunset."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00019.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is sweeping leaves on a cobblestone street at sunset."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00020.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA person is locking a gate with a padlock, surrounded by ivy and a setting sun."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00021.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA young girl in a striped shirt and denim shorts is jumping to catch a red ball in a sunny park."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00022.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA cyclist is riding a bicycle on a coastal road with the sun setting in the background, casting a warm glow over the scene."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00023.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman is sitting at a desk with a computer monitor displaying code, surrounded by books, plants, and a mug."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00024.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman in an apron is painting on an easel in a sunlit room filled with art supplies and framed pictures on the wall."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00025.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA musician plays an electric guitar on stage with a Marshall amplifier and a drum set in the background."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00026.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA person is using a key to unlock a rusted, iron gate adorned with ivy, with the sun setting in the background."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00027.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA person is sitting on a couch in a dimly lit living room, watching a vibrant action scene on a large TV, with a bowl of popcorn and a steaming cup nearby."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00028.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is using a shovel to dig in a garden with various plants and flowers in the background."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00029.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman is sitting at a desk, engaged in sewing, with various sewing tools and materials around her, illuminated by a desk lamp."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00030.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA race car driver is at the wheel of a car on a track, with another car visible in the background."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00031.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a workshop is using a hammer to work on a piece of wood."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00032.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman is enjoying a steaming bowl of soup at a cozy, warmly lit table with a candle and bread nearby."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00033.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nTwo climbers are securing their ropes on a mountain peak with a scenic view of distant mountains in the background."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00034.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a black swimsuit stands by a pool, with a white towel draped over his shoulders, and water dripping from his body."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00035.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA person is sitting at a table in a library, reading a book with a laptop and a steaming cup nearby."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00036.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA barber is styling a young man's hair in a well-lit barbershop."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00037.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a jungle setting, wearing a hat and holding a map, stands on a rock with a compass hanging from his bag."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00038.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA person is peacefully sleeping in a cozy bed with a soft blanket, in a warmly lit room with sunlight streaming through the window."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00039.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman stands in a dimly lit, industrial setting with a beam of light shining down on her."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00040.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nAn elderly man in a boat catches fish with a net at sunrise."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00041.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA gloved hand holds a wrench in a workshop setting."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00042.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man in a garden is planting a small plant in the soil, wearing gloves and surrounded by various vegetables and a watering can."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00043.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA person is sitting by a campfire in front of a tent, with mountains and a starry sky in the background."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00044.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA gloved hand is opening a wooden door, revealing a sunlit garden and a house in the background."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00045.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman in a cozy sweater stands by a window on a rainy evening, with her hands pressed against the glass."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00046.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA woman sits in a cozy armchair, wearing a sweater and jeans, with a lamp and bookshelf in the background, looking out a window at a rainy night."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00047.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA man is sitting at a desk with a typewriter, writing in a notebook, surrounded by books, a steaming mug, and a desk lamp."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00048.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA chef in a commercial kitchen is stirring a pot over a flame, surrounded by various ingredients and equipment."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00049.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA person is washing their hands under a running faucet in a bathroom."
+    },
+    {
+        "image_path": "../data/correct_images/sb2/00050.png",
+        "generated_caption": "system\nYou are a helpful assistant.\nuser\nDescribe this image in one concise sentence.\nassistant\nA person is sitting on a couch, wrapped in a cozy blanket, with a mug and book on a table, in a warmly lit room with a floor lamp and plants."
+    }
+]
